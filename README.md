@@ -1,5 +1,32 @@
 # Panini FIFA World Cup 2026 Monorepo Sticker Manager
 
+**🌐 Use it here:** [https://guidsdo.github.io/sticker-manager/](https://guidsdo.github.io/sticker-manager/)
+
+> No installation or account needed. Your collection is stored in your browser's local storage — as long as you use the same browser, your data persists. Use the Export feature to back it up.
+
+## How to Use the Website
+
+1. **Select a Country:** Click on a country from the sidebar to view its sticker album.
+2. **View Stickers:** Browse your collection organized by sticker number with a grid layout.
+3. **Mark Stickers:** Click on sticker cards to mark them as collected or missing from your album.
+4. **Team Switching:** Use the team buttons at the top to quickly navigate between different national teams.
+5. **Import/Export:**
+   - **Export:** Save your collection as a JSON file to back up your progress or import into [laststicker.com](https://www.laststicker.com/).
+   - **Import:** Load a previously saved collection file to restore or merge data.
+6. **View Statistics:** Check your collection completion stats and progress at a glance.
+
+## ⚠️ Disclaimer
+
+**This project is a fan-made collection tracker tool and is NOT affiliated with, endorsed by, or associated with:**
+- FIFA (Fédération Internationale de Football Association)
+- Panini Group or any Panini brands
+- Any national football federation or governing body
+- laststicker.com or any other organization, company, or website
+
+This is an independent, open-source project created for personal use and educational purposes. All trademarks, logos, team names, and sticker images referenced belong to their respective owners. This project does not distribute, sell, or claim ownership of any copyrighted material.
+
+---
+
 This repository is a pnpm + Turborepo monorepo with three projects under `packages`:
 
 - `packages/contracts`: shared dataset + TypeScript contracts
