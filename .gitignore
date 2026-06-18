@@ -1,0 +1,9 @@
+node_modules
+.pnpm-store
+.turbo
+.DS_Store
+*.db
+*.db-shm
+*.db-wal
+packages/*/dist
+*.tsbuildinfo

@@ -1,0 +1,5305 @@
+{
+  "collection": "Panini FIFA World Cup 2026",
+  "sections": [
+    {
+      "name": "MEX",
+      "title": "Mexico",
+      "stickers": [
+        {
+          "code": "MEX1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "MEX2",
+          "name": "Luis Malagón",
+          "foil": false
+        },
+        {
+          "code": "MEX3",
+          "name": "Johan Vasquez",
+          "foil": false
+        },
+        {
+          "code": "MEX4",
+          "name": "Jorge Sánchez",
+          "foil": false
+        },
+        {
+          "code": "MEX5",
+          "name": "Cesar Montes",
+          "foil": false
+        },
+        {
+          "code": "MEX6",
+          "name": "Jesus Gallardo",
+          "foil": false
+        },
+        {
+          "code": "MEX7",
+          "name": "Israel Reyes",
+          "foil": false
+        },
+        {
+          "code": "MEX8",
+          "name": "Diego Lainez",
+          "foil": false
+        },
+        {
+          "code": "MEX9",
+          "name": "Carlos Rodriguez",
+          "foil": false
+        },
+        {
+          "code": "MEX10",
+          "name": "Edson Alvarez",
+          "foil": false
+        },
+        {
+          "code": "MEX11",
+          "name": "Orbelin Pineda",
+          "foil": false
+        },
+        {
+          "code": "MEX12",
+          "name": "Marcel Ruiz",
+          "foil": false
+        },
+        {
+          "code": "MEX13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "MEX14",
+          "name": "Érick Sánchez",
+          "foil": false
+        },
+        {
+          "code": "MEX15",
+          "name": "Hirving Lozano",
+          "foil": false
+        },
+        {
+          "code": "MEX16",
+          "name": "Santiago Giménez",
+          "foil": false
+        },
+        {
+          "code": "MEX17",
+          "name": "Raúl Jiménez",
+          "foil": false
+        },
+        {
+          "code": "MEX18",
+          "name": "Alexis Vega",
+          "foil": false
+        },
+        {
+          "code": "MEX19",
+          "name": "Roberto Alvarado",
+          "foil": false
+        },
+        {
+          "code": "MEX20",
+          "name": "Cesar Huerta",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "RSA",
+      "title": "South Africa",
+      "stickers": [
+        {
+          "code": "RSA1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "RSA2",
+          "name": "Ronwen Williams",
+          "foil": false
+        },
+        {
+          "code": "RSA3",
+          "name": "Sipho Chaine",
+          "foil": false
+        },
+        {
+          "code": "RSA4",
+          "name": "Aubrey Modiba",
+          "foil": false
+        },
+        {
+          "code": "RSA5",
+          "name": "Samukele Kabini",
+          "foil": false
+        },
+        {
+          "code": "RSA6",
+          "name": "Mbekezeli Mbokazi",
+          "foil": false
+        },
+        {
+          "code": "RSA7",
+          "name": "Khulumani Ndamane",
+          "foil": false
+        },
+        {
+          "code": "RSA8",
+          "name": "Siyabonga Ngezana",
+          "foil": false
+        },
+        {
+          "code": "RSA9",
+          "name": "Khuliso Mudau",
+          "foil": false
+        },
+        {
+          "code": "RSA10",
+          "name": "Nkosinathi Sibisi",
+          "foil": false
+        },
+        {
+          "code": "RSA11",
+          "name": "Teboho Mokoena",
+          "foil": false
+        },
+        {
+          "code": "RSA12",
+          "name": "Thalente Mbatha",
+          "foil": false
+        },
+        {
+          "code": "RSA13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "RSA14",
+          "name": "Bathusi Aubaas",
+          "foil": false
+        },
+        {
+          "code": "RSA15",
+          "name": "Yaya Sithole",
+          "foil": false
+        },
+        {
+          "code": "RSA16",
+          "name": "Sipho Mbule",
+          "foil": false
+        },
+        {
+          "code": "RSA17",
+          "name": "Lyle Foster",
+          "foil": false
+        },
+        {
+          "code": "RSA18",
+          "name": "Iqraam Rayners",
+          "foil": false
+        },
+        {
+          "code": "RSA19",
+          "name": "Mohau Nkota",
+          "foil": false
+        },
+        {
+          "code": "RSA20",
+          "name": "Oswin Appollis",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "KOR",
+      "title": "South Korea",
+      "stickers": [
+        {
+          "code": "KOR1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "KOR2",
+          "name": "Hyeon-woo Jo",
+          "foil": false
+        },
+        {
+          "code": "KOR3",
+          "name": "Seung-Gyu Kim",
+          "foil": false
+        },
+        {
+          "code": "KOR4",
+          "name": "Min-jae Kim",
+          "foil": false
+        },
+        {
+          "code": "KOR5",
+          "name": "Yu-min Cho",
+          "foil": false
+        },
+        {
+          "code": "KOR6",
+          "name": "Young-woo Seol",
+          "foil": false
+        },
+        {
+          "code": "KOR7",
+          "name": "Han-beom Lee",
+          "foil": false
+        },
+        {
+          "code": "KOR8",
+          "name": "Tae-seok Lee",
+          "foil": false
+        },
+        {
+          "code": "KOR9",
+          "name": "Myung-jae Lee",
+          "foil": false
+        },
+        {
+          "code": "KOR10",
+          "name": "Jae-sung Lee",
+          "foil": false
+        },
+        {
+          "code": "KOR11",
+          "name": "In-beom Hwang",
+          "foil": false
+        },
+        {
+          "code": "KOR12",
+          "name": "Kang-in Lee",
+          "foil": false
+        },
+        {
+          "code": "KOR13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "KOR14",
+          "name": "Seung-ho Paik",
+          "foil": false
+        },
+        {
+          "code": "KOR15",
+          "name": "Jens Castrop",
+          "foil": false
+        },
+        {
+          "code": "KOR16",
+          "name": "Dongg-yeong Lee",
+          "foil": false
+        },
+        {
+          "code": "KOR17",
+          "name": "Gue-sung Cho",
+          "foil": false
+        },
+        {
+          "code": "KOR18",
+          "name": "Heung-min Son",
+          "foil": false
+        },
+        {
+          "code": "KOR19",
+          "name": "Hee-chan Hwang",
+          "foil": false
+        },
+        {
+          "code": "KOR20",
+          "name": "Hyeon-Gyu Oh",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "CZE",
+      "title": "Czechia",
+      "stickers": [
+        {
+          "code": "CZE1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "CZE2",
+          "name": "Matej Kovar",
+          "foil": false
+        },
+        {
+          "code": "CZE3",
+          "name": "Jindrich Stanek",
+          "foil": false
+        },
+        {
+          "code": "CZE4",
+          "name": "Ladislav Krejci",
+          "foil": false
+        },
+        {
+          "code": "CZE5",
+          "name": "Vladimir Coufal",
+          "foil": false
+        },
+        {
+          "code": "CZE6",
+          "name": "Jaroslav Zeleny",
+          "foil": false
+        },
+        {
+          "code": "CZE7",
+          "name": "Tomas Holes",
+          "foil": false
+        },
+        {
+          "code": "CZE8",
+          "name": "David Zima",
+          "foil": false
+        },
+        {
+          "code": "CZE9",
+          "name": "Michal Sadilek",
+          "foil": false
+        },
+        {
+          "code": "CZE10",
+          "name": "Lukas Provod",
+          "foil": false
+        },
+        {
+          "code": "CZE11",
+          "name": "Lukas Cerv",
+          "foil": false
+        },
+        {
+          "code": "CZE12",
+          "name": "Tomas Soucek",
+          "foil": false
+        },
+        {
+          "code": "CZE13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "CZE14",
+          "name": "Pavel Sulc",
+          "foil": false
+        },
+        {
+          "code": "CZE15",
+          "name": "Matej Vydra",
+          "foil": false
+        },
+        {
+          "code": "CZE16",
+          "name": "Vasil Kusej",
+          "foil": false
+        },
+        {
+          "code": "CZE17",
+          "name": "Tomas Chory",
+          "foil": false
+        },
+        {
+          "code": "CZE18",
+          "name": "Vaclav Cerny",
+          "foil": false
+        },
+        {
+          "code": "CZE19",
+          "name": "Adam Hlozek",
+          "foil": false
+        },
+        {
+          "code": "CZE20",
+          "name": "Patrik Schick",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "CAN",
+      "title": "Canada",
+      "stickers": [
+        {
+          "code": "CAN1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "CAN2",
+          "name": "Dayne St.Clair",
+          "foil": false
+        },
+        {
+          "code": "CAN3",
+          "name": "Alphonso Davies",
+          "foil": false
+        },
+        {
+          "code": "CAN4",
+          "name": "Alistair Johnston",
+          "foil": false
+        },
+        {
+          "code": "CAN5",
+          "name": "Samuel Adekugbe",
+          "foil": false
+        },
+        {
+          "code": "CAN6",
+          "name": "Richie Laryea",
+          "foil": false
+        },
+        {
+          "code": "CAN7",
+          "name": "Derek Cornelius",
+          "foil": false
+        },
+        {
+          "code": "CAN8",
+          "name": "Moïse Bombito",
+          "foil": false
+        },
+        {
+          "code": "CAN9",
+          "name": "Kamal Miller",
+          "foil": false
+        },
+        {
+          "code": "CAN10",
+          "name": "Stephen Eustáquio",
+          "foil": false
+        },
+        {
+          "code": "CAN11",
+          "name": "Ismaël Koné",
+          "foil": false
+        },
+        {
+          "code": "CAN12",
+          "name": "Jonathan Osorio",
+          "foil": false
+        },
+        {
+          "code": "CAN13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "CAN14",
+          "name": "Jacob Shaffelburg",
+          "foil": false
+        },
+        {
+          "code": "CAN15",
+          "name": "Mathieu Choinière",
+          "foil": false
+        },
+        {
+          "code": "CAN16",
+          "name": "Niko Sigur",
+          "foil": false
+        },
+        {
+          "code": "CAN17",
+          "name": "Tajon Buchanan",
+          "foil": false
+        },
+        {
+          "code": "CAN18",
+          "name": "Liam Millar",
+          "foil": false
+        },
+        {
+          "code": "CAN19",
+          "name": "Cyle Larin",
+          "foil": false
+        },
+        {
+          "code": "CAN20",
+          "name": "Jonathan David",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "BIH",
+      "title": "Bosnia and Herzegovina",
+      "stickers": [
+        {
+          "code": "BIH1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "BIH2",
+          "name": "Nikola Vasilj",
+          "foil": false
+        },
+        {
+          "code": "BIH3",
+          "name": "Amer Dedic",
+          "foil": false
+        },
+        {
+          "code": "BIH4",
+          "name": "Sead Kolasinac",
+          "foil": false
+        },
+        {
+          "code": "BIH5",
+          "name": "Tarik Muharemovic",
+          "foil": false
+        },
+        {
+          "code": "BIH6",
+          "name": "Nihad Mujakic",
+          "foil": false
+        },
+        {
+          "code": "BIH7",
+          "name": "Nikola Katic",
+          "foil": false
+        },
+        {
+          "code": "BIH8",
+          "name": "Amir Hadziahmetovic",
+          "foil": false
+        },
+        {
+          "code": "BIH9",
+          "name": "Benjamin Tahirovic",
+          "foil": false
+        },
+        {
+          "code": "BIH10",
+          "name": "Armin Gigovic",
+          "foil": false
+        },
+        {
+          "code": "BIH11",
+          "name": "Ivan Sunjic",
+          "foil": false
+        },
+        {
+          "code": "BIH12",
+          "name": "Ivan Basic",
+          "foil": false
+        },
+        {
+          "code": "BIH13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "BIH14",
+          "name": "Dzenis Burnic",
+          "foil": false
+        },
+        {
+          "code": "BIH15",
+          "name": "Esmir Bajraktarevic",
+          "foil": false
+        },
+        {
+          "code": "BIH16",
+          "name": "Amar Memic",
+          "foil": false
+        },
+        {
+          "code": "BIH17",
+          "name": "Ermedin Demirovic",
+          "foil": false
+        },
+        {
+          "code": "BIH18",
+          "name": "Edin Dzeko",
+          "foil": false
+        },
+        {
+          "code": "BIH19",
+          "name": "Samed Bazdar",
+          "foil": false
+        },
+        {
+          "code": "BIH20",
+          "name": "Haris Tabakovic",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "QAT",
+      "title": "Qatar",
+      "stickers": [
+        {
+          "code": "QAT1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "QAT2",
+          "name": "Meshaal Barsham",
+          "foil": false
+        },
+        {
+          "code": "QAT3",
+          "name": "Sultan Albrake",
+          "foil": false
+        },
+        {
+          "code": "QAT4",
+          "name": "Lucas Mendes",
+          "foil": false
+        },
+        {
+          "code": "QAT5",
+          "name": "Homam Ahmed",
+          "foil": false
+        },
+        {
+          "code": "QAT6",
+          "name": "Boualem Khoukhi",
+          "foil": false
+        },
+        {
+          "code": "QAT7",
+          "name": "Pedro Miguel",
+          "foil": false
+        },
+        {
+          "code": "QAT8",
+          "name": "Tarek Salman",
+          "foil": false
+        },
+        {
+          "code": "QAT9",
+          "name": "Mohamed Al-Mannai",
+          "foil": false
+        },
+        {
+          "code": "QAT10",
+          "name": "Karim Boudiaf",
+          "foil": false
+        },
+        {
+          "code": "QAT11",
+          "name": "Assim Madibo",
+          "foil": false
+        },
+        {
+          "code": "QAT12",
+          "name": "Ahmed Fatehi",
+          "foil": false
+        },
+        {
+          "code": "QAT13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "QAT14",
+          "name": "Mohammed Waad",
+          "foil": false
+        },
+        {
+          "code": "QAT15",
+          "name": "Abdulaziz Hatem",
+          "foil": false
+        },
+        {
+          "code": "QAT16",
+          "name": "Hassan Al-Haydos",
+          "foil": false
+        },
+        {
+          "code": "QAT17",
+          "name": "Edmilson Junior",
+          "foil": false
+        },
+        {
+          "code": "QAT18",
+          "name": "Akram Hassan Afif",
+          "foil": false
+        },
+        {
+          "code": "QAT19",
+          "name": "Ahmed Al Ganehi",
+          "foil": false
+        },
+        {
+          "code": "QAT20",
+          "name": "Almoez Ali",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "SUI",
+      "title": "Switzerland",
+      "stickers": [
+        {
+          "code": "SUI1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "SUI2",
+          "name": "Gregor Kobel",
+          "foil": false
+        },
+        {
+          "code": "SUI3",
+          "name": "Yvon Mvogo",
+          "foil": false
+        },
+        {
+          "code": "SUI4",
+          "name": "Manuel Akanji",
+          "foil": false
+        },
+        {
+          "code": "SUI5",
+          "name": "Ricardo Rodriguez",
+          "foil": false
+        },
+        {
+          "code": "SUI6",
+          "name": "Nico Elvedi",
+          "foil": false
+        },
+        {
+          "code": "SUI7",
+          "name": "Aurèle Amenda",
+          "foil": false
+        },
+        {
+          "code": "SUI8",
+          "name": "Silvan Widmer",
+          "foil": false
+        },
+        {
+          "code": "SUI9",
+          "name": "Granit Xhaka",
+          "foil": false
+        },
+        {
+          "code": "SUI10",
+          "name": "Denis Zakaria",
+          "foil": false
+        },
+        {
+          "code": "SUI11",
+          "name": "Remo Freuler",
+          "foil": false
+        },
+        {
+          "code": "SUI12",
+          "name": "Fabian Rieder",
+          "foil": false
+        },
+        {
+          "code": "SUI13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "SUI14",
+          "name": "Ardon Jashari",
+          "foil": false
+        },
+        {
+          "code": "SUI15",
+          "name": "Johan Manzambi",
+          "foil": false
+        },
+        {
+          "code": "SUI16",
+          "name": "Michel Aebischer",
+          "foil": false
+        },
+        {
+          "code": "SUI17",
+          "name": "Breel Embolo",
+          "foil": false
+        },
+        {
+          "code": "SUI18",
+          "name": "Ruben Vargas",
+          "foil": false
+        },
+        {
+          "code": "SUI19",
+          "name": "Dan Ndoye",
+          "foil": false
+        },
+        {
+          "code": "SUI20",
+          "name": "Zeki Amdouni",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "BRA",
+      "title": "Brazil",
+      "stickers": [
+        {
+          "code": "BRA1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "BRA2",
+          "name": "Alisson",
+          "foil": false
+        },
+        {
+          "code": "BRA3",
+          "name": "Bento",
+          "foil": false
+        },
+        {
+          "code": "BRA4",
+          "name": "Marquinhos",
+          "foil": false
+        },
+        {
+          "code": "BRA5",
+          "name": "Éder Militão",
+          "foil": false
+        },
+        {
+          "code": "BRA6",
+          "name": "Gabriel Magalhães",
+          "foil": false
+        },
+        {
+          "code": "BRA7",
+          "name": "Danilo",
+          "foil": false
+        },
+        {
+          "code": "BRA8",
+          "name": "Wesley",
+          "foil": false
+        },
+        {
+          "code": "BRA9",
+          "name": "Lucas Paquetá",
+          "foil": false
+        },
+        {
+          "code": "BRA10",
+          "name": "Casemiro",
+          "foil": false
+        },
+        {
+          "code": "BRA11",
+          "name": "Bruno Guimarães",
+          "foil": false
+        },
+        {
+          "code": "BRA12",
+          "name": "Luiz Henrique",
+          "foil": false
+        },
+        {
+          "code": "BRA13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "BRA14",
+          "name": "Vinicius Júnior",
+          "foil": false
+        },
+        {
+          "code": "BRA15",
+          "name": "Rodrygo",
+          "foil": false
+        },
+        {
+          "code": "BRA16",
+          "name": "João Pedro",
+          "foil": false
+        },
+        {
+          "code": "BRA17",
+          "name": "Matheus Cunha",
+          "foil": false
+        },
+        {
+          "code": "BRA18",
+          "name": "Gabriel Martinelli",
+          "foil": false
+        },
+        {
+          "code": "BRA19",
+          "name": "Raphinha",
+          "foil": false
+        },
+        {
+          "code": "BRA20",
+          "name": "Estévão",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "MAR",
+      "title": "Morocco",
+      "stickers": [
+        {
+          "code": "MAR1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "MAR2",
+          "name": "Yassine Bounou",
+          "foil": false
+        },
+        {
+          "code": "MAR3",
+          "name": "Munir El Kajoui",
+          "foil": false
+        },
+        {
+          "code": "MAR4",
+          "name": "Achraf Hakimi",
+          "foil": false
+        },
+        {
+          "code": "MAR5",
+          "name": "Noussair Mazraoui",
+          "foil": false
+        },
+        {
+          "code": "MAR6",
+          "name": "Nayef Aguerd",
+          "foil": false
+        },
+        {
+          "code": "MAR7",
+          "name": "Romain Saïss",
+          "foil": false
+        },
+        {
+          "code": "MAR8",
+          "name": "Jawad El Yamiq",
+          "foil": false
+        },
+        {
+          "code": "MAR9",
+          "name": "Adam Masina",
+          "foil": false
+        },
+        {
+          "code": "MAR10",
+          "name": "Sofyan Amrabat",
+          "foil": false
+        },
+        {
+          "code": "MAR11",
+          "name": "Azzedine Ounahi",
+          "foil": false
+        },
+        {
+          "code": "MAR12",
+          "name": "Eliesse Ben Seghir",
+          "foil": false
+        },
+        {
+          "code": "MAR13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "MAR14",
+          "name": "Bilal El Khannouss",
+          "foil": false
+        },
+        {
+          "code": "MAR15",
+          "name": "Ismael Saibari",
+          "foil": false
+        },
+        {
+          "code": "MAR16",
+          "name": "Youssef En-Nesyri",
+          "foil": false
+        },
+        {
+          "code": "MAR17",
+          "name": "Abde Ezzalzouli",
+          "foil": false
+        },
+        {
+          "code": "MAR18",
+          "name": "Soufiane Rahimi",
+          "foil": false
+        },
+        {
+          "code": "MAR19",
+          "name": "Brahim Diaz",
+          "foil": false
+        },
+        {
+          "code": "MAR20",
+          "name": "Ayoub El Kaabi",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "HAI",
+      "title": "Haiti",
+      "stickers": [
+        {
+          "code": "HAI1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "HAI2",
+          "name": "Johny Placide",
+          "foil": false
+        },
+        {
+          "code": "HAI3",
+          "name": "Carlens Arcus",
+          "foil": false
+        },
+        {
+          "code": "HAI4",
+          "name": "Martin Expérience",
+          "foil": false
+        },
+        {
+          "code": "HAI5",
+          "name": "Jean-Kevin Duverne",
+          "foil": false
+        },
+        {
+          "code": "HAI6",
+          "name": "Ricardo Adé",
+          "foil": false
+        },
+        {
+          "code": "HAI7",
+          "name": "Duke Lacroix",
+          "foil": false
+        },
+        {
+          "code": "HAI8",
+          "name": "Garven Metusala",
+          "foil": false
+        },
+        {
+          "code": "HAI9",
+          "name": "Hannes Delcroix",
+          "foil": false
+        },
+        {
+          "code": "HAI10",
+          "name": "Leverton Pierre",
+          "foil": false
+        },
+        {
+          "code": "HAI11",
+          "name": "Danley Jean Jacques",
+          "foil": false
+        },
+        {
+          "code": "HAI12",
+          "name": "Jean-Ricner Bellegarde",
+          "foil": false
+        },
+        {
+          "code": "HAI13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "HAI14",
+          "name": "Christopher Attys",
+          "foil": false
+        },
+        {
+          "code": "HAI15",
+          "name": "Derrick Etienne Jr",
+          "foil": false
+        },
+        {
+          "code": "HAI16",
+          "name": "Josue Casimir",
+          "foil": false
+        },
+        {
+          "code": "HAI17",
+          "name": "Ruben Providence",
+          "foil": false
+        },
+        {
+          "code": "HAI18",
+          "name": "Duckens Nazon",
+          "foil": false
+        },
+        {
+          "code": "HAI19",
+          "name": "Louicius Deedson",
+          "foil": false
+        },
+        {
+          "code": "HAI20",
+          "name": "Frantzdy Pierrot",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "SCO",
+      "title": "Scotland",
+      "stickers": [
+        {
+          "code": "SCO1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "SCO2",
+          "name": "Angus Gunn",
+          "foil": false
+        },
+        {
+          "code": "SCO3",
+          "name": "Jack Hendry",
+          "foil": false
+        },
+        {
+          "code": "SCO4",
+          "name": "Kieran Tierney",
+          "foil": false
+        },
+        {
+          "code": "SCO5",
+          "name": "Aaron Hickey",
+          "foil": false
+        },
+        {
+          "code": "SCO6",
+          "name": "Andrew Robertson",
+          "foil": false
+        },
+        {
+          "code": "SCO7",
+          "name": "Scott McKenna",
+          "foil": false
+        },
+        {
+          "code": "SCO8",
+          "name": "John Souttar",
+          "foil": false
+        },
+        {
+          "code": "SCO9",
+          "name": "Anthony Ralston",
+          "foil": false
+        },
+        {
+          "code": "SCO10",
+          "name": "Grant Hanley",
+          "foil": false
+        },
+        {
+          "code": "SCO11",
+          "name": "Scott McTominay",
+          "foil": false
+        },
+        {
+          "code": "SCO12",
+          "name": "Billy Gilmour",
+          "foil": false
+        },
+        {
+          "code": "SCO13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "SCO14",
+          "name": "Lewis Ferguson",
+          "foil": false
+        },
+        {
+          "code": "SCO15",
+          "name": "Ryan Christie",
+          "foil": false
+        },
+        {
+          "code": "SCO16",
+          "name": "Kenny McLean",
+          "foil": false
+        },
+        {
+          "code": "SCO17",
+          "name": "John McGinn",
+          "foil": false
+        },
+        {
+          "code": "SCO18",
+          "name": "Lyndon Dykes",
+          "foil": false
+        },
+        {
+          "code": "SCO19",
+          "name": "Che Adams",
+          "foil": false
+        },
+        {
+          "code": "SCO20",
+          "name": "Ben Gannon-Doak",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "USA",
+      "title": "USA",
+      "stickers": [
+        {
+          "code": "USA1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "USA2",
+          "name": "Matt Freese",
+          "foil": false
+        },
+        {
+          "code": "USA3",
+          "name": "Chris Richards",
+          "foil": false
+        },
+        {
+          "code": "USA4",
+          "name": "Tim Ream",
+          "foil": false
+        },
+        {
+          "code": "USA5",
+          "name": "Mark McKenzie",
+          "foil": false
+        },
+        {
+          "code": "USA6",
+          "name": "Alex Freeman",
+          "foil": false
+        },
+        {
+          "code": "USA7",
+          "name": "Antonee Robinson",
+          "foil": false
+        },
+        {
+          "code": "USA8",
+          "name": "Tyler Adams",
+          "foil": false
+        },
+        {
+          "code": "USA9",
+          "name": "Tanner Tessmann",
+          "foil": false
+        },
+        {
+          "code": "USA10",
+          "name": "Weston McKenny",
+          "foil": false
+        },
+        {
+          "code": "USA11",
+          "name": "Christian Roldan",
+          "foil": false
+        },
+        {
+          "code": "USA12",
+          "name": "Timothy Weah",
+          "foil": false
+        },
+        {
+          "code": "USA13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "USA14",
+          "name": "Diego Luna",
+          "foil": false
+        },
+        {
+          "code": "USA15",
+          "name": "Malik Tillman",
+          "foil": false
+        },
+        {
+          "code": "USA16",
+          "name": "Christian Pulisic",
+          "foil": false
+        },
+        {
+          "code": "USA17",
+          "name": "Brenden Aaronson",
+          "foil": false
+        },
+        {
+          "code": "USA18",
+          "name": "Ricardo Pepi",
+          "foil": false
+        },
+        {
+          "code": "USA19",
+          "name": "Haji Wright",
+          "foil": false
+        },
+        {
+          "code": "USA20",
+          "name": "Folarin Balogun",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "PAR",
+      "title": "Paraguay",
+      "stickers": [
+        {
+          "code": "PAR1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "PAR2",
+          "name": "Roberto Fernandez",
+          "foil": false
+        },
+        {
+          "code": "PAR3",
+          "name": "Orlando Gill",
+          "foil": false
+        },
+        {
+          "code": "PAR4",
+          "name": "Gustavo Gomez",
+          "foil": false
+        },
+        {
+          "code": "PAR5",
+          "name": "Fabián Balbuena",
+          "foil": false
+        },
+        {
+          "code": "PAR6",
+          "name": "Juan José Cáceres",
+          "foil": false
+        },
+        {
+          "code": "PAR7",
+          "name": "Omar Alderete",
+          "foil": false
+        },
+        {
+          "code": "PAR8",
+          "name": "Junior Alonso",
+          "foil": false
+        },
+        {
+          "code": "PAR9",
+          "name": "Mathías Villasanti",
+          "foil": false
+        },
+        {
+          "code": "PAR10",
+          "name": "Diego Gomez",
+          "foil": false
+        },
+        {
+          "code": "PAR11",
+          "name": "Damián Bobadilla",
+          "foil": false
+        },
+        {
+          "code": "PAR12",
+          "name": "Andres Cubas",
+          "foil": false
+        },
+        {
+          "code": "PAR13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "PAR14",
+          "name": "Matias Galarza Fonda",
+          "foil": false
+        },
+        {
+          "code": "PAR15",
+          "name": "Julio Enciso",
+          "foil": false
+        },
+        {
+          "code": "PAR16",
+          "name": "Alejandro Romero Gamarra",
+          "foil": false
+        },
+        {
+          "code": "PAR17",
+          "name": "Miguel Almirón",
+          "foil": false
+        },
+        {
+          "code": "PAR18",
+          "name": "Ramon Sosa",
+          "foil": false
+        },
+        {
+          "code": "PAR19",
+          "name": "Angel Romero",
+          "foil": false
+        },
+        {
+          "code": "PAR20",
+          "name": "Antonio Sanabria",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "AUS",
+      "title": "Australia",
+      "stickers": [
+        {
+          "code": "AUS1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "AUS2",
+          "name": "Mathew Ryan",
+          "foil": false
+        },
+        {
+          "code": "AUS3",
+          "name": "Joe Gauci",
+          "foil": false
+        },
+        {
+          "code": "AUS4",
+          "name": "Harry Souttar",
+          "foil": false
+        },
+        {
+          "code": "AUS5",
+          "name": "Alessandro Circati",
+          "foil": false
+        },
+        {
+          "code": "AUS6",
+          "name": "Jordan Bos",
+          "foil": false
+        },
+        {
+          "code": "AUS7",
+          "name": "Aziz Behich",
+          "foil": false
+        },
+        {
+          "code": "AUS8",
+          "name": "Cameron Burgess",
+          "foil": false
+        },
+        {
+          "code": "AUS9",
+          "name": "Lewis Miller",
+          "foil": false
+        },
+        {
+          "code": "AUS10",
+          "name": "Milos Degenek",
+          "foil": false
+        },
+        {
+          "code": "AUS11",
+          "name": "Jackson Irvine",
+          "foil": false
+        },
+        {
+          "code": "AUS12",
+          "name": "Riley McGree",
+          "foil": false
+        },
+        {
+          "code": "AUS13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "AUS14",
+          "name": "Aiden O'Neill",
+          "foil": false
+        },
+        {
+          "code": "AUS15",
+          "name": "Connor Metcalfe",
+          "foil": false
+        },
+        {
+          "code": "AUS16",
+          "name": "Patrick Yazbek",
+          "foil": false
+        },
+        {
+          "code": "AUS17",
+          "name": "Craig Goodwin",
+          "foil": false
+        },
+        {
+          "code": "AUS18",
+          "name": "Kusini Yengi",
+          "foil": false
+        },
+        {
+          "code": "AUS19",
+          "name": "Nestory Irankunda",
+          "foil": false
+        },
+        {
+          "code": "AUS20",
+          "name": "Mohamed Touré",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "TUR",
+      "title": "Türkiye",
+      "stickers": [
+        {
+          "code": "TUR1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "TUR2",
+          "name": "Ugurcan Cakir",
+          "foil": false
+        },
+        {
+          "code": "TUR3",
+          "name": "Mert Muldur",
+          "foil": false
+        },
+        {
+          "code": "TUR4",
+          "name": "Zeki Celik",
+          "foil": false
+        },
+        {
+          "code": "TUR5",
+          "name": "Abdulkerim Bardakci",
+          "foil": false
+        },
+        {
+          "code": "TUR6",
+          "name": "Caglar Soyuncu",
+          "foil": false
+        },
+        {
+          "code": "TUR7",
+          "name": "Merih Demiral",
+          "foil": false
+        },
+        {
+          "code": "TUR8",
+          "name": "Ferdi Kadioglu",
+          "foil": false
+        },
+        {
+          "code": "TUR9",
+          "name": "Kaan Ayhan",
+          "foil": false
+        },
+        {
+          "code": "TUR10",
+          "name": "Ismail Yuksek",
+          "foil": false
+        },
+        {
+          "code": "TUR11",
+          "name": "Hakan Calhanoglu",
+          "foil": false
+        },
+        {
+          "code": "TUR12",
+          "name": "Orkun Kokcu",
+          "foil": false
+        },
+        {
+          "code": "TUR13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "TUR14",
+          "name": "Arda Guler",
+          "foil": false
+        },
+        {
+          "code": "TUR15",
+          "name": "Irfan Can Kahveci",
+          "foil": false
+        },
+        {
+          "code": "TUR16",
+          "name": "Yunus Akgun",
+          "foil": false
+        },
+        {
+          "code": "TUR17",
+          "name": "Can Uzun",
+          "foil": false
+        },
+        {
+          "code": "TUR18",
+          "name": "Baris Alper Yilmaz",
+          "foil": false
+        },
+        {
+          "code": "TUR19",
+          "name": "Kerem Akturkoglu",
+          "foil": false
+        },
+        {
+          "code": "TUR20",
+          "name": "Kenan Yildiz",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "GER",
+      "title": "Germany",
+      "stickers": [
+        {
+          "code": "GER1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "GER2",
+          "name": "Marc-André ter Stegen",
+          "foil": false
+        },
+        {
+          "code": "GER3",
+          "name": "Jonathan Tah",
+          "foil": false
+        },
+        {
+          "code": "GER4",
+          "name": "David Raum",
+          "foil": false
+        },
+        {
+          "code": "GER5",
+          "name": "Nico Schlotterbeck",
+          "foil": false
+        },
+        {
+          "code": "GER6",
+          "name": "Antonio Rüdiger",
+          "foil": false
+        },
+        {
+          "code": "GER7",
+          "name": "Waldemar Anton",
+          "foil": false
+        },
+        {
+          "code": "GER8",
+          "name": "Ridle Baku",
+          "foil": false
+        },
+        {
+          "code": "GER9",
+          "name": "Maximilian Mittelstadt",
+          "foil": false
+        },
+        {
+          "code": "GER10",
+          "name": "Joshua Kimmich",
+          "foil": false
+        },
+        {
+          "code": "GER11",
+          "name": "Florian Wirtz",
+          "foil": false
+        },
+        {
+          "code": "GER12",
+          "name": "Felix Nmecha",
+          "foil": false
+        },
+        {
+          "code": "GER13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "GER14",
+          "name": "Leon Goretzka",
+          "foil": false
+        },
+        {
+          "code": "GER15",
+          "name": "Jamal Musiala",
+          "foil": false
+        },
+        {
+          "code": "GER16",
+          "name": "Serge Gnabry",
+          "foil": false
+        },
+        {
+          "code": "GER17",
+          "name": "Kai Havertz",
+          "foil": false
+        },
+        {
+          "code": "GER18",
+          "name": "Leroy Sane",
+          "foil": false
+        },
+        {
+          "code": "GER19",
+          "name": "Karim Adeyemi",
+          "foil": false
+        },
+        {
+          "code": "GER20",
+          "name": "Nick Woltemade",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "CUW",
+      "title": "Curaçao",
+      "stickers": [
+        {
+          "code": "CUW1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "CUW2",
+          "name": "Eloy Room",
+          "foil": false
+        },
+        {
+          "code": "CUW3",
+          "name": "Armando Obispo",
+          "foil": false
+        },
+        {
+          "code": "CUW4",
+          "name": "Sherel Floranus",
+          "foil": false
+        },
+        {
+          "code": "CUW5",
+          "name": "Jurien Gaari",
+          "foil": false
+        },
+        {
+          "code": "CUW6",
+          "name": "Joshua Brenet",
+          "foil": false
+        },
+        {
+          "code": "CUW7",
+          "name": "Roshon Van Eijma",
+          "foil": false
+        },
+        {
+          "code": "CUW8",
+          "name": "Shurandy Sambo",
+          "foil": false
+        },
+        {
+          "code": "CUW9",
+          "name": "Livano Comenencia",
+          "foil": false
+        },
+        {
+          "code": "CUW10",
+          "name": "Godfried Roemeratoe",
+          "foil": false
+        },
+        {
+          "code": "CUW11",
+          "name": "Juninho Bacuna",
+          "foil": false
+        },
+        {
+          "code": "CUW12",
+          "name": "Leandro Bacuna",
+          "foil": false
+        },
+        {
+          "code": "CUW13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "CUW14",
+          "name": "Tahith Chong",
+          "foil": false
+        },
+        {
+          "code": "CUW15",
+          "name": "Kenji Gorre",
+          "foil": false
+        },
+        {
+          "code": "CUW16",
+          "name": "Jearl Margaritha",
+          "foil": false
+        },
+        {
+          "code": "CUW17",
+          "name": "Jurgen Locadia",
+          "foil": false
+        },
+        {
+          "code": "CUW18",
+          "name": "Jeremy Antonisse",
+          "foil": false
+        },
+        {
+          "code": "CUW19",
+          "name": "Gervane Kastaneer",
+          "foil": false
+        },
+        {
+          "code": "CUW20",
+          "name": "Sontje Hansen",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "CIV",
+      "title": "Ivory Coast",
+      "stickers": [
+        {
+          "code": "CIV1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "CIV2",
+          "name": "Yahia Fofana",
+          "foil": false
+        },
+        {
+          "code": "CIV3",
+          "name": "Ghislain Konan",
+          "foil": false
+        },
+        {
+          "code": "CIV4",
+          "name": "Wilfried Singo",
+          "foil": false
+        },
+        {
+          "code": "CIV5",
+          "name": "Odilon Kossounou",
+          "foil": false
+        },
+        {
+          "code": "CIV6",
+          "name": "Evan Ndicka",
+          "foil": false
+        },
+        {
+          "code": "CIV7",
+          "name": "Willy Boly",
+          "foil": false
+        },
+        {
+          "code": "CIV8",
+          "name": "Emmanuel Agbadou",
+          "foil": false
+        },
+        {
+          "code": "CIV9",
+          "name": "Ousmane Diomande",
+          "foil": false
+        },
+        {
+          "code": "CIV10",
+          "name": "Franck Kessie",
+          "foil": false
+        },
+        {
+          "code": "CIV11",
+          "name": "Seko Fofana",
+          "foil": false
+        },
+        {
+          "code": "CIV12",
+          "name": "Ibrahim Sangare",
+          "foil": false
+        },
+        {
+          "code": "CIV13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "CIV14",
+          "name": "Jean-Philippe Gbamin",
+          "foil": false
+        },
+        {
+          "code": "CIV15",
+          "name": "Amad Diallo",
+          "foil": false
+        },
+        {
+          "code": "CIV16",
+          "name": "Sébastien Haller",
+          "foil": false
+        },
+        {
+          "code": "CIV17",
+          "name": "Simon Adingra",
+          "foil": false
+        },
+        {
+          "code": "CIV18",
+          "name": "Yan Diomande",
+          "foil": false
+        },
+        {
+          "code": "CIV19",
+          "name": "Evann Guessand",
+          "foil": false
+        },
+        {
+          "code": "CIV20",
+          "name": "Oumar Diakite",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "ECU",
+      "title": "Ecuador",
+      "stickers": [
+        {
+          "code": "ECU1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "ECU2",
+          "name": "Hernán Galíndez",
+          "foil": false
+        },
+        {
+          "code": "ECU3",
+          "name": "Gonzalo Valle",
+          "foil": false
+        },
+        {
+          "code": "ECU4",
+          "name": "Piero Hincapié",
+          "foil": false
+        },
+        {
+          "code": "ECU5",
+          "name": "Pervis Estupiñán",
+          "foil": false
+        },
+        {
+          "code": "ECU6",
+          "name": "Willian Pacho",
+          "foil": false
+        },
+        {
+          "code": "ECU7",
+          "name": "Ángelo Preciado",
+          "foil": false
+        },
+        {
+          "code": "ECU8",
+          "name": "Joel Ordóñez",
+          "foil": false
+        },
+        {
+          "code": "ECU9",
+          "name": "Moises Caicedo",
+          "foil": false
+        },
+        {
+          "code": "ECU10",
+          "name": "Alan Franco",
+          "foil": false
+        },
+        {
+          "code": "ECU11",
+          "name": "Kendry Paez",
+          "foil": false
+        },
+        {
+          "code": "ECU12",
+          "name": "Pedro Vite",
+          "foil": false
+        },
+        {
+          "code": "ECU13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "ECU14",
+          "name": "John Yeboah",
+          "foil": false
+        },
+        {
+          "code": "ECU15",
+          "name": "Leonardo Campana",
+          "foil": false
+        },
+        {
+          "code": "ECU16",
+          "name": "Gonzalo Plata",
+          "foil": false
+        },
+        {
+          "code": "ECU17",
+          "name": "Nilson Angulo",
+          "foil": false
+        },
+        {
+          "code": "ECU18",
+          "name": "Alan Minda",
+          "foil": false
+        },
+        {
+          "code": "ECU19",
+          "name": "Kevin Rodriguez",
+          "foil": false
+        },
+        {
+          "code": "ECU20",
+          "name": "Enner Valencia",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "NED",
+      "title": "Netherlands",
+      "stickers": [
+        {
+          "code": "NED1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "NED2",
+          "name": "Bart Verbruggen",
+          "foil": false
+        },
+        {
+          "code": "NED3",
+          "name": "Virgil van Dijk",
+          "foil": false
+        },
+        {
+          "code": "NED4",
+          "name": "Micky van de Ven",
+          "foil": false
+        },
+        {
+          "code": "NED5",
+          "name": "Jurrien Timber",
+          "foil": false
+        },
+        {
+          "code": "NED6",
+          "name": "Denzel Dumfries",
+          "foil": false
+        },
+        {
+          "code": "NED7",
+          "name": "Nathan Aké",
+          "foil": false
+        },
+        {
+          "code": "NED8",
+          "name": "Jeremie Frimpong",
+          "foil": false
+        },
+        {
+          "code": "NED9",
+          "name": "Jan Paul van Hecke",
+          "foil": false
+        },
+        {
+          "code": "NED10",
+          "name": "Tijjani Reijnders",
+          "foil": false
+        },
+        {
+          "code": "NED11",
+          "name": "Ryan Gravenberch",
+          "foil": false
+        },
+        {
+          "code": "NED12",
+          "name": "Teun Koopmeiners",
+          "foil": false
+        },
+        {
+          "code": "NED13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "NED14",
+          "name": "Frenkie de Jong",
+          "foil": false
+        },
+        {
+          "code": "NED15",
+          "name": "Xavi Simons",
+          "foil": false
+        },
+        {
+          "code": "NED16",
+          "name": "Justin Kluivert",
+          "foil": false
+        },
+        {
+          "code": "NED17",
+          "name": "Memphis Depay",
+          "foil": false
+        },
+        {
+          "code": "NED18",
+          "name": "Donyell Malen",
+          "foil": false
+        },
+        {
+          "code": "NED19",
+          "name": "Wout Weghorst",
+          "foil": false
+        },
+        {
+          "code": "NED20",
+          "name": "Cody Gakpo",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "JPN",
+      "title": "Japan",
+      "stickers": [
+        {
+          "code": "JPN1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "JPN2",
+          "name": "Zion Suzuki",
+          "foil": false
+        },
+        {
+          "code": "JPN3",
+          "name": "Henry Heroki Mochizuki",
+          "foil": false
+        },
+        {
+          "code": "JPN4",
+          "name": "Ayumu Seko",
+          "foil": false
+        },
+        {
+          "code": "JPN5",
+          "name": "Junnosuke Suzuki",
+          "foil": false
+        },
+        {
+          "code": "JPN6",
+          "name": "Shogo Taniguchi",
+          "foil": false
+        },
+        {
+          "code": "JPN7",
+          "name": "Tsuyoshi Watanabe",
+          "foil": false
+        },
+        {
+          "code": "JPN8",
+          "name": "Kaishu Sano",
+          "foil": false
+        },
+        {
+          "code": "JPN9",
+          "name": "Yuki Soma",
+          "foil": false
+        },
+        {
+          "code": "JPN10",
+          "name": "Ao Tanaka",
+          "foil": false
+        },
+        {
+          "code": "JPN11",
+          "name": "Daichi Kamada",
+          "foil": false
+        },
+        {
+          "code": "JPN12",
+          "name": "Takefusa Kubo",
+          "foil": false
+        },
+        {
+          "code": "JPN13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "JPN14",
+          "name": "Ritsu Doan",
+          "foil": false
+        },
+        {
+          "code": "JPN15",
+          "name": "Keito Nakamura",
+          "foil": false
+        },
+        {
+          "code": "JPN16",
+          "name": "Takumi Minamino",
+          "foil": false
+        },
+        {
+          "code": "JPN17",
+          "name": "Shuto Machino",
+          "foil": false
+        },
+        {
+          "code": "JPN18",
+          "name": "Junya Ito",
+          "foil": false
+        },
+        {
+          "code": "JPN19",
+          "name": "Koki Ogawa",
+          "foil": false
+        },
+        {
+          "code": "JPN20",
+          "name": "Ayase Ueda",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "SWE",
+      "title": "Sweden",
+      "stickers": [
+        {
+          "code": "SWE1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "SWE2",
+          "name": "Victor Johansson",
+          "foil": false
+        },
+        {
+          "code": "SWE3",
+          "name": "Isak Hien",
+          "foil": false
+        },
+        {
+          "code": "SWE4",
+          "name": "Gabriel Gudmundsson",
+          "foil": false
+        },
+        {
+          "code": "SWE5",
+          "name": "Emil Holm",
+          "foil": false
+        },
+        {
+          "code": "SWE6",
+          "name": "Victor Nilsson Lindelöf",
+          "foil": false
+        },
+        {
+          "code": "SWE7",
+          "name": "Gustaf Lagerbielke",
+          "foil": false
+        },
+        {
+          "code": "SWE8",
+          "name": "Lucas Bergvall",
+          "foil": false
+        },
+        {
+          "code": "SWE9",
+          "name": "Hugo Larsson",
+          "foil": false
+        },
+        {
+          "code": "SWE10",
+          "name": "Jesper Karlström",
+          "foil": false
+        },
+        {
+          "code": "SWE11",
+          "name": "Yasin Ayari",
+          "foil": false
+        },
+        {
+          "code": "SWE12",
+          "name": "Mattias Svanberg",
+          "foil": false
+        },
+        {
+          "code": "SWE13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "SWE14",
+          "name": "Daniel Svensson",
+          "foil": false
+        },
+        {
+          "code": "SWE15",
+          "name": "Ken Sema",
+          "foil": false
+        },
+        {
+          "code": "SWE16",
+          "name": "Roony Bardghji",
+          "foil": false
+        },
+        {
+          "code": "SWE17",
+          "name": "Dejan Kulusevski",
+          "foil": false
+        },
+        {
+          "code": "SWE18",
+          "name": "Anthony Elanga",
+          "foil": false
+        },
+        {
+          "code": "SWE19",
+          "name": "Alexander Isak",
+          "foil": false
+        },
+        {
+          "code": "SWE20",
+          "name": "Viktor Gyökeres",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "TUN",
+      "title": "Tunisia",
+      "stickers": [
+        {
+          "code": "TUN1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "TUN2",
+          "name": "Bechir Ben Said",
+          "foil": false
+        },
+        {
+          "code": "TUN3",
+          "name": "Aymen Dahmen",
+          "foil": false
+        },
+        {
+          "code": "TUN4",
+          "name": "Yan Valery",
+          "foil": false
+        },
+        {
+          "code": "TUN5",
+          "name": "Montassar Talbi",
+          "foil": false
+        },
+        {
+          "code": "TUN6",
+          "name": "Yassine Meriah",
+          "foil": false
+        },
+        {
+          "code": "TUN7",
+          "name": "Ali Abdi",
+          "foil": false
+        },
+        {
+          "code": "TUN8",
+          "name": "Dylan Bronn",
+          "foil": false
+        },
+        {
+          "code": "TUN9",
+          "name": "Ellyes Skhiri",
+          "foil": false
+        },
+        {
+          "code": "TUN10",
+          "name": "Aissa Laidouni",
+          "foil": false
+        },
+        {
+          "code": "TUN11",
+          "name": "Ferjani Sassi",
+          "foil": false
+        },
+        {
+          "code": "TUN12",
+          "name": "Mohamed Ali Ben Romdhane",
+          "foil": false
+        },
+        {
+          "code": "TUN13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "TUN14",
+          "name": "Hannibal Mejbri",
+          "foil": false
+        },
+        {
+          "code": "TUN15",
+          "name": "Elias Achouri",
+          "foil": false
+        },
+        {
+          "code": "TUN16",
+          "name": "Elias Saad",
+          "foil": false
+        },
+        {
+          "code": "TUN17",
+          "name": "Hazem Mastouri",
+          "foil": false
+        },
+        {
+          "code": "TUN18",
+          "name": "Ismael Gharbi",
+          "foil": false
+        },
+        {
+          "code": "TUN19",
+          "name": "Sayfallah Ltaief",
+          "foil": false
+        },
+        {
+          "code": "TUN20",
+          "name": "Naim Sliti",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "BEL",
+      "title": "Belgium",
+      "stickers": [
+        {
+          "code": "BEL1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "BEL2",
+          "name": "Thibaut Courtois",
+          "foil": false
+        },
+        {
+          "code": "BEL3",
+          "name": "Arthur Theate",
+          "foil": false
+        },
+        {
+          "code": "BEL4",
+          "name": "Timothy Castagne",
+          "foil": false
+        },
+        {
+          "code": "BEL5",
+          "name": "Zeno Debast",
+          "foil": false
+        },
+        {
+          "code": "BEL6",
+          "name": "Brandon Mechele",
+          "foil": false
+        },
+        {
+          "code": "BEL7",
+          "name": "Maxim De Cuyper",
+          "foil": false
+        },
+        {
+          "code": "BEL8",
+          "name": "Thomas Meunier",
+          "foil": false
+        },
+        {
+          "code": "BEL9",
+          "name": "Youri Tielemans",
+          "foil": false
+        },
+        {
+          "code": "BEL10",
+          "name": "Amadou Onana",
+          "foil": false
+        },
+        {
+          "code": "BEL11",
+          "name": "Nicolas Raskin",
+          "foil": false
+        },
+        {
+          "code": "BEL12",
+          "name": "Alexis Saelemaekers",
+          "foil": false
+        },
+        {
+          "code": "BEL13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "BEL14",
+          "name": "Hans Vanaken",
+          "foil": false
+        },
+        {
+          "code": "BEL15",
+          "name": "Kevin De Bruyne",
+          "foil": false
+        },
+        {
+          "code": "BEL16",
+          "name": "Jérémy Doku",
+          "foil": false
+        },
+        {
+          "code": "BEL17",
+          "name": "Charles De Ketelaere",
+          "foil": false
+        },
+        {
+          "code": "BEL18",
+          "name": "Leandro Trossard",
+          "foil": false
+        },
+        {
+          "code": "BEL19",
+          "name": "Loïs Openda",
+          "foil": false
+        },
+        {
+          "code": "BEL20",
+          "name": "Romelu Lukaku",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "EGY",
+      "title": "Egypt",
+      "stickers": [
+        {
+          "code": "EGY1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "EGY2",
+          "name": "Mohamed El Shenawy",
+          "foil": false
+        },
+        {
+          "code": "EGY3",
+          "name": "Mohamed Hany",
+          "foil": false
+        },
+        {
+          "code": "EGY4",
+          "name": "Mohamed Hamdy",
+          "foil": false
+        },
+        {
+          "code": "EGY5",
+          "name": "Yasser Ibrahim",
+          "foil": false
+        },
+        {
+          "code": "EGY6",
+          "name": "Khaled Sobhi",
+          "foil": false
+        },
+        {
+          "code": "EGY7",
+          "name": "Ramy Rabia",
+          "foil": false
+        },
+        {
+          "code": "EGY8",
+          "name": "Hossam Abdelmaguid",
+          "foil": false
+        },
+        {
+          "code": "EGY9",
+          "name": "Ahmed Fatouh",
+          "foil": false
+        },
+        {
+          "code": "EGY10",
+          "name": "Marwan Attia",
+          "foil": false
+        },
+        {
+          "code": "EGY11",
+          "name": "Zizo",
+          "foil": false
+        },
+        {
+          "code": "EGY12",
+          "name": "Hamdy Fathy",
+          "foil": false
+        },
+        {
+          "code": "EGY13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "EGY14",
+          "name": "Mohamed Lasheen",
+          "foil": false
+        },
+        {
+          "code": "EGY15",
+          "name": "Emam Ashour",
+          "foil": false
+        },
+        {
+          "code": "EGY16",
+          "name": "Osama Faisal",
+          "foil": false
+        },
+        {
+          "code": "EGY17",
+          "name": "Mohamed Salah",
+          "foil": false
+        },
+        {
+          "code": "EGY18",
+          "name": "Mostafa Mohamed",
+          "foil": false
+        },
+        {
+          "code": "EGY19",
+          "name": "Trezeguet",
+          "foil": false
+        },
+        {
+          "code": "EGY20",
+          "name": "Omar Marmoush",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "IRN",
+      "title": "Iran",
+      "stickers": [
+        {
+          "code": "IRN1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "IRN2",
+          "name": "Alireza Beiranvand",
+          "foil": false
+        },
+        {
+          "code": "IRN3",
+          "name": "Morteza Pouraliganji",
+          "foil": false
+        },
+        {
+          "code": "IRN4",
+          "name": "Ehsan Hajsafi",
+          "foil": false
+        },
+        {
+          "code": "IRN5",
+          "name": "Milad Mohammadi",
+          "foil": false
+        },
+        {
+          "code": "IRN6",
+          "name": "Shojae Khalilzadeh",
+          "foil": false
+        },
+        {
+          "code": "IRN7",
+          "name": "Ramin Rezaeian",
+          "foil": false
+        },
+        {
+          "code": "IRN8",
+          "name": "Hossein Kanaani",
+          "foil": false
+        },
+        {
+          "code": "IRN9",
+          "name": "Sadegh Moharrami",
+          "foil": false
+        },
+        {
+          "code": "IRN10",
+          "name": "Saleh Hardani",
+          "foil": false
+        },
+        {
+          "code": "IRN11",
+          "name": "Saeed Ezatolahi",
+          "foil": false
+        },
+        {
+          "code": "IRN12",
+          "name": "Saman Ghoddos",
+          "foil": false
+        },
+        {
+          "code": "IRN13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "IRN14",
+          "name": "Omid Noorafkan",
+          "foil": false
+        },
+        {
+          "code": "IRN15",
+          "name": "Roozbeh Cheshmi",
+          "foil": false
+        },
+        {
+          "code": "IRN16",
+          "name": "Mohammad Mohebi",
+          "foil": false
+        },
+        {
+          "code": "IRN17",
+          "name": "Sardar Azmoun",
+          "foil": false
+        },
+        {
+          "code": "IRN18",
+          "name": "Mehdi Taremi",
+          "foil": false
+        },
+        {
+          "code": "IRN19",
+          "name": "Alireza Jahanbakhsh",
+          "foil": false
+        },
+        {
+          "code": "IRN20",
+          "name": "Ali Gholizadeh",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "NZL",
+      "title": "New Zealand",
+      "stickers": [
+        {
+          "code": "NZL1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "NZL2",
+          "name": "Max Crocombe",
+          "foil": false
+        },
+        {
+          "code": "NZL3",
+          "name": "Alex Paulsen",
+          "foil": false
+        },
+        {
+          "code": "NZL4",
+          "name": "Michael Boxall",
+          "foil": false
+        },
+        {
+          "code": "NZL5",
+          "name": "Liberato Cacace",
+          "foil": false
+        },
+        {
+          "code": "NZL6",
+          "name": "Tim Payne",
+          "foil": false
+        },
+        {
+          "code": "NZL7",
+          "name": "Tyler Bindon",
+          "foil": false
+        },
+        {
+          "code": "NZL8",
+          "name": "Francis de Vries",
+          "foil": false
+        },
+        {
+          "code": "NZL9",
+          "name": "Finn Surman",
+          "foil": false
+        },
+        {
+          "code": "NZL10",
+          "name": "Joe Bell",
+          "foil": false
+        },
+        {
+          "code": "NZL11",
+          "name": "Sarpreet Singh",
+          "foil": false
+        },
+        {
+          "code": "NZL12",
+          "name": "Ryan Thomas",
+          "foil": false
+        },
+        {
+          "code": "NZL13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "NZL14",
+          "name": "Matthew Garbett",
+          "foil": false
+        },
+        {
+          "code": "NZL15",
+          "name": "Marko Stamenić",
+          "foil": false
+        },
+        {
+          "code": "NZL16",
+          "name": "Ben Old",
+          "foil": false
+        },
+        {
+          "code": "NZL17",
+          "name": "Chris Wood",
+          "foil": false
+        },
+        {
+          "code": "NZL18",
+          "name": "Elijah Just",
+          "foil": false
+        },
+        {
+          "code": "NZL19",
+          "name": "Callum McCowatt",
+          "foil": false
+        },
+        {
+          "code": "NZL20",
+          "name": "Kosta Barbarouses",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "ESP",
+      "title": "Spain",
+      "stickers": [
+        {
+          "code": "ESP1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "ESP2",
+          "name": "Unai Simon",
+          "foil": false
+        },
+        {
+          "code": "ESP3",
+          "name": "Robin Le Normand",
+          "foil": false
+        },
+        {
+          "code": "ESP4",
+          "name": "Aymeric Laporte",
+          "foil": false
+        },
+        {
+          "code": "ESP5",
+          "name": "Dean Huijsen",
+          "foil": false
+        },
+        {
+          "code": "ESP6",
+          "name": "Pedro Porro",
+          "foil": false
+        },
+        {
+          "code": "ESP7",
+          "name": "Dani Carvajal",
+          "foil": false
+        },
+        {
+          "code": "ESP8",
+          "name": "Marc Cucurella",
+          "foil": false
+        },
+        {
+          "code": "ESP9",
+          "name": "Martín Zubimendi",
+          "foil": false
+        },
+        {
+          "code": "ESP10",
+          "name": "Rodri",
+          "foil": false
+        },
+        {
+          "code": "ESP11",
+          "name": "Pedri",
+          "foil": false
+        },
+        {
+          "code": "ESP12",
+          "name": "Fabian Ruiz",
+          "foil": false
+        },
+        {
+          "code": "ESP13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "ESP14",
+          "name": "Mikel Merino",
+          "foil": false
+        },
+        {
+          "code": "ESP15",
+          "name": "Lamine Yamal",
+          "foil": false
+        },
+        {
+          "code": "ESP16",
+          "name": "Dani Olmo",
+          "foil": false
+        },
+        {
+          "code": "ESP17",
+          "name": "Nico Williams",
+          "foil": false
+        },
+        {
+          "code": "ESP18",
+          "name": "Ferran Torres",
+          "foil": false
+        },
+        {
+          "code": "ESP19",
+          "name": "Álvaro Morata",
+          "foil": false
+        },
+        {
+          "code": "ESP20",
+          "name": "Mikel Oyarzabal",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "CPV",
+      "title": "Cape Verde",
+      "stickers": [
+        {
+          "code": "CPV1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "CPV2",
+          "name": "Vozinha",
+          "foil": false
+        },
+        {
+          "code": "CPV3",
+          "name": "Logan Costa",
+          "foil": false
+        },
+        {
+          "code": "CPV4",
+          "name": "Pico",
+          "foil": false
+        },
+        {
+          "code": "CPV5",
+          "name": "Diney",
+          "foil": false
+        },
+        {
+          "code": "CPV6",
+          "name": "Steven Moreira",
+          "foil": false
+        },
+        {
+          "code": "CPV7",
+          "name": "Wagner Pina",
+          "foil": false
+        },
+        {
+          "code": "CPV8",
+          "name": "Joao Paulo",
+          "foil": false
+        },
+        {
+          "code": "CPV9",
+          "name": "Yannick Semedo",
+          "foil": false
+        },
+        {
+          "code": "CPV10",
+          "name": "Kevin Pina",
+          "foil": false
+        },
+        {
+          "code": "CPV11",
+          "name": "Patrick Andrade",
+          "foil": false
+        },
+        {
+          "code": "CPV12",
+          "name": "Jamiro Monteiro",
+          "foil": false
+        },
+        {
+          "code": "CPV13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "CPV14",
+          "name": "Deroy Duarte",
+          "foil": false
+        },
+        {
+          "code": "CPV15",
+          "name": "Garry Rodrigues",
+          "foil": false
+        },
+        {
+          "code": "CPV16",
+          "name": "Jovane Cabral",
+          "foil": false
+        },
+        {
+          "code": "CPV17",
+          "name": "Ryan Mendes",
+          "foil": false
+        },
+        {
+          "code": "CPV18",
+          "name": "Dailon Livramento",
+          "foil": false
+        },
+        {
+          "code": "CPV19",
+          "name": "Willy Semedo",
+          "foil": false
+        },
+        {
+          "code": "CPV20",
+          "name": "Bebe",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "KSA",
+      "title": "Saudi Arabia",
+      "stickers": [
+        {
+          "code": "KSA1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "KSA2",
+          "name": "Nawaf Alaqidi",
+          "foil": false
+        },
+        {
+          "code": "KSA3",
+          "name": "Abdulrahman Al-Sanbi",
+          "foil": false
+        },
+        {
+          "code": "KSA4",
+          "name": "Saud Abdulhamid",
+          "foil": false
+        },
+        {
+          "code": "KSA5",
+          "name": "Nawaf Bouwashl",
+          "foil": false
+        },
+        {
+          "code": "KSA6",
+          "name": "Jihad Thakri",
+          "foil": false
+        },
+        {
+          "code": "KSA7",
+          "name": "Moteb Al-Harbi",
+          "foil": false
+        },
+        {
+          "code": "KSA8",
+          "name": "Hassan Altambakti",
+          "foil": false
+        },
+        {
+          "code": "KSA9",
+          "name": "Musab Aljuwayr",
+          "foil": false
+        },
+        {
+          "code": "KSA10",
+          "name": "Ziyad Aljohani",
+          "foil": false
+        },
+        {
+          "code": "KSA11",
+          "name": "Abdullah Alkhaibari",
+          "foil": false
+        },
+        {
+          "code": "KSA12",
+          "name": "Nasser Aldawsari",
+          "foil": false
+        },
+        {
+          "code": "KSA13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "KSA14",
+          "name": "Saleh Abu Alshamat",
+          "foil": false
+        },
+        {
+          "code": "KSA15",
+          "name": "Marwan Alsahafi",
+          "foil": false
+        },
+        {
+          "code": "KSA16",
+          "name": "Salem Aldawsari",
+          "foil": false
+        },
+        {
+          "code": "KSA17",
+          "name": "Abdulrahman Al-Aboud",
+          "foil": false
+        },
+        {
+          "code": "KSA18",
+          "name": "Feras Akbrikan",
+          "foil": false
+        },
+        {
+          "code": "KSA19",
+          "name": "Saleh Alshehri",
+          "foil": false
+        },
+        {
+          "code": "KSA20",
+          "name": "Abdullah Al-Hamdan",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "URU",
+      "title": "Uruguay",
+      "stickers": [
+        {
+          "code": "URU1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "URU2",
+          "name": "Sergio Rochet",
+          "foil": false
+        },
+        {
+          "code": "URU3",
+          "name": "Santiago Mele",
+          "foil": false
+        },
+        {
+          "code": "URU4",
+          "name": "Ronald Araujo",
+          "foil": false
+        },
+        {
+          "code": "URU5",
+          "name": "José María Giménez",
+          "foil": false
+        },
+        {
+          "code": "URU6",
+          "name": "Sebastian Caceres",
+          "foil": false
+        },
+        {
+          "code": "URU7",
+          "name": "Mathias Olivera",
+          "foil": false
+        },
+        {
+          "code": "URU8",
+          "name": "Guillermo Varela",
+          "foil": false
+        },
+        {
+          "code": "URU9",
+          "name": "Nahitan Nandez",
+          "foil": false
+        },
+        {
+          "code": "URU10",
+          "name": "Federico Valverde",
+          "foil": false
+        },
+        {
+          "code": "URU11",
+          "name": "Giorgian De Arrascaeta",
+          "foil": false
+        },
+        {
+          "code": "URU12",
+          "name": "Rodrigo Bentancur",
+          "foil": false
+        },
+        {
+          "code": "URU13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "URU14",
+          "name": "Manuel Ugarte",
+          "foil": false
+        },
+        {
+          "code": "URU15",
+          "name": "Nicolás de la Cruz",
+          "foil": false
+        },
+        {
+          "code": "URU16",
+          "name": "Maxi Araujo",
+          "foil": false
+        },
+        {
+          "code": "URU17",
+          "name": "Darwin Núñez",
+          "foil": false
+        },
+        {
+          "code": "URU18",
+          "name": "Federico Viñas",
+          "foil": false
+        },
+        {
+          "code": "URU19",
+          "name": "Rodrigo Aguirre",
+          "foil": false
+        },
+        {
+          "code": "URU20",
+          "name": "Facundo Pellistri",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "FRA",
+      "title": "France",
+      "stickers": [
+        {
+          "code": "FRA1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "FRA2",
+          "name": "Mike Maignan",
+          "foil": false
+        },
+        {
+          "code": "FRA3",
+          "name": "Theo Hernandez",
+          "foil": false
+        },
+        {
+          "code": "FRA4",
+          "name": "William Saliba",
+          "foil": false
+        },
+        {
+          "code": "FRA5",
+          "name": "Jules Kounde",
+          "foil": false
+        },
+        {
+          "code": "FRA6",
+          "name": "Ibrahima Konate",
+          "foil": false
+        },
+        {
+          "code": "FRA7",
+          "name": "Dayot Upamecano",
+          "foil": false
+        },
+        {
+          "code": "FRA8",
+          "name": "Lucas Digne",
+          "foil": false
+        },
+        {
+          "code": "FRA9",
+          "name": "Aurélien Tchouaméni",
+          "foil": false
+        },
+        {
+          "code": "FRA10",
+          "name": "Eduardo Camavinga",
+          "foil": false
+        },
+        {
+          "code": "FRA11",
+          "name": "Manu Kone",
+          "foil": false
+        },
+        {
+          "code": "FRA12",
+          "name": "Adrien Rabiot",
+          "foil": false
+        },
+        {
+          "code": "FRA13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "FRA14",
+          "name": "Michael Olise",
+          "foil": false
+        },
+        {
+          "code": "FRA15",
+          "name": "Ousmane Dembele",
+          "foil": false
+        },
+        {
+          "code": "FRA16",
+          "name": "Bradley Barcola",
+          "foil": false
+        },
+        {
+          "code": "FRA17",
+          "name": "Désiré Doué",
+          "foil": false
+        },
+        {
+          "code": "FRA18",
+          "name": "Kingsley Coman",
+          "foil": false
+        },
+        {
+          "code": "FRA19",
+          "name": "Hugo Ekitike",
+          "foil": false
+        },
+        {
+          "code": "FRA20",
+          "name": "Kylian Mbappe",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "SEN",
+      "title": "Senegal",
+      "stickers": [
+        {
+          "code": "SEN1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "SEN2",
+          "name": "Édouard Mendy",
+          "foil": false
+        },
+        {
+          "code": "SEN3",
+          "name": "Yehvann Diouf",
+          "foil": false
+        },
+        {
+          "code": "SEN4",
+          "name": "Moussa Niakhaté",
+          "foil": false
+        },
+        {
+          "code": "SEN5",
+          "name": "Abdoulaye Seck",
+          "foil": false
+        },
+        {
+          "code": "SEN6",
+          "name": "Ismail Jakobs",
+          "foil": false
+        },
+        {
+          "code": "SEN7",
+          "name": "El Hadji Malick Diouf",
+          "foil": false
+        },
+        {
+          "code": "SEN8",
+          "name": "Kalidou Koulibaly",
+          "foil": false
+        },
+        {
+          "code": "SEN9",
+          "name": "Idrissa Gana Gueye",
+          "foil": false
+        },
+        {
+          "code": "SEN10",
+          "name": "Pape Matar Sarr",
+          "foil": false
+        },
+        {
+          "code": "SEN11",
+          "name": "Pape Gueye",
+          "foil": false
+        },
+        {
+          "code": "SEN12",
+          "name": "Habib Diarra",
+          "foil": false
+        },
+        {
+          "code": "SEN13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "SEN14",
+          "name": "Lamine Camara",
+          "foil": false
+        },
+        {
+          "code": "SEN15",
+          "name": "Sadio Mane",
+          "foil": false
+        },
+        {
+          "code": "SEN16",
+          "name": "Ismaïla Sarr",
+          "foil": false
+        },
+        {
+          "code": "SEN17",
+          "name": "Boulaye Dia",
+          "foil": false
+        },
+        {
+          "code": "SEN18",
+          "name": "Iliman Ndiaye",
+          "foil": false
+        },
+        {
+          "code": "SEN19",
+          "name": "Nicolas Jackson",
+          "foil": false
+        },
+        {
+          "code": "SEN20",
+          "name": "Krepin Diatta",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "IRQ",
+      "title": "Iraq",
+      "stickers": [
+        {
+          "code": "IRQ1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "IRQ2",
+          "name": "Jalal Hassan",
+          "foil": false
+        },
+        {
+          "code": "IRQ3",
+          "name": "Rebin Sulaka",
+          "foil": false
+        },
+        {
+          "code": "IRQ4",
+          "name": "Hussein Ali",
+          "foil": false
+        },
+        {
+          "code": "IRQ5",
+          "name": "Akam Hashem",
+          "foil": false
+        },
+        {
+          "code": "IRQ6",
+          "name": "Merchas Doski",
+          "foil": false
+        },
+        {
+          "code": "IRQ7",
+          "name": "Zaid Tahseen",
+          "foil": false
+        },
+        {
+          "code": "IRQ8",
+          "name": "Manaf Younis",
+          "foil": false
+        },
+        {
+          "code": "IRQ9",
+          "name": "Zidane Iqbal",
+          "foil": false
+        },
+        {
+          "code": "IRQ10",
+          "name": "Amir Al-Ammari",
+          "foil": false
+        },
+        {
+          "code": "IRQ11",
+          "name": "Ibrahim Bavesh",
+          "foil": false
+        },
+        {
+          "code": "IRQ12",
+          "name": "Ali Jasim",
+          "foil": false
+        },
+        {
+          "code": "IRQ13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "IRQ14",
+          "name": "Youssef Amyn",
+          "foil": false
+        },
+        {
+          "code": "IRQ15",
+          "name": "Aimar Sher",
+          "foil": false
+        },
+        {
+          "code": "IRQ16",
+          "name": "Marko Farji",
+          "foil": false
+        },
+        {
+          "code": "IRQ17",
+          "name": "Osama Rashid",
+          "foil": false
+        },
+        {
+          "code": "IRQ18",
+          "name": "Ali Al-Hamadi",
+          "foil": false
+        },
+        {
+          "code": "IRQ19",
+          "name": "Aymen Hussein",
+          "foil": false
+        },
+        {
+          "code": "IRQ20",
+          "name": "Mohanad Ali",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "NOR",
+      "title": "Norway",
+      "stickers": [
+        {
+          "code": "NOR1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "NOR2",
+          "name": "Orjan Nyland",
+          "foil": false
+        },
+        {
+          "code": "NOR3",
+          "name": "Julian Ryerson",
+          "foil": false
+        },
+        {
+          "code": "NOR4",
+          "name": "Leo Ostigård",
+          "foil": false
+        },
+        {
+          "code": "NOR5",
+          "name": "Kristoffer Vassbakk Ajer",
+          "foil": false
+        },
+        {
+          "code": "NOR6",
+          "name": "Marcus Holmgren Pedersen",
+          "foil": false
+        },
+        {
+          "code": "NOR7",
+          "name": "David Møller Wolfe",
+          "foil": false
+        },
+        {
+          "code": "NOR8",
+          "name": "Torbjørn Heggem",
+          "foil": false
+        },
+        {
+          "code": "NOR9",
+          "name": "Morten Thorsby",
+          "foil": false
+        },
+        {
+          "code": "NOR10",
+          "name": "Martin Ødegaard",
+          "foil": false
+        },
+        {
+          "code": "NOR11",
+          "name": "Sander Berge",
+          "foil": false
+        },
+        {
+          "code": "NOR12",
+          "name": "Andreas Schjelderup",
+          "foil": false
+        },
+        {
+          "code": "NOR13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "NOR14",
+          "name": "Patrick Berg",
+          "foil": false
+        },
+        {
+          "code": "NOR15",
+          "name": "Erling Haaland",
+          "foil": false
+        },
+        {
+          "code": "NOR16",
+          "name": "Alexander Sørloth",
+          "foil": false
+        },
+        {
+          "code": "NOR17",
+          "name": "Aron Dønnum",
+          "foil": false
+        },
+        {
+          "code": "NOR18",
+          "name": "Jorgen Strand Larsen",
+          "foil": false
+        },
+        {
+          "code": "NOR19",
+          "name": "Antonio Nusa",
+          "foil": false
+        },
+        {
+          "code": "NOR20",
+          "name": "Oscar Bobb",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "ARG",
+      "title": "Argentina",
+      "stickers": [
+        {
+          "code": "ARG1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "ARG2",
+          "name": "Emiliano Martinez",
+          "foil": false
+        },
+        {
+          "code": "ARG3",
+          "name": "Nahuel Molina",
+          "foil": false
+        },
+        {
+          "code": "ARG4",
+          "name": "Cristian Romero",
+          "foil": false
+        },
+        {
+          "code": "ARG5",
+          "name": "Nicolas Otamendi",
+          "foil": false
+        },
+        {
+          "code": "ARG6",
+          "name": "Nicolas Tagliafico",
+          "foil": false
+        },
+        {
+          "code": "ARG7",
+          "name": "Leonardo Balerdi",
+          "foil": false
+        },
+        {
+          "code": "ARG8",
+          "name": "Enzo Fernandez",
+          "foil": false
+        },
+        {
+          "code": "ARG9",
+          "name": "Alexis Mac Allister",
+          "foil": false
+        },
+        {
+          "code": "ARG10",
+          "name": "Rodrigo De Paul",
+          "foil": false
+        },
+        {
+          "code": "ARG11",
+          "name": "Exequiel Palacios",
+          "foil": false
+        },
+        {
+          "code": "ARG12",
+          "name": "Leandro Paredes",
+          "foil": false
+        },
+        {
+          "code": "ARG13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "ARG14",
+          "name": "Nico Paz",
+          "foil": false
+        },
+        {
+          "code": "ARG15",
+          "name": "Franco Mastantuono",
+          "foil": false
+        },
+        {
+          "code": "ARG16",
+          "name": "Nico Gonzalez",
+          "foil": false
+        },
+        {
+          "code": "ARG17",
+          "name": "Lionel Messi",
+          "foil": false
+        },
+        {
+          "code": "ARG18",
+          "name": "Lautaro Martinez",
+          "foil": false
+        },
+        {
+          "code": "ARG19",
+          "name": "Julian Alvarez",
+          "foil": false
+        },
+        {
+          "code": "ARG20",
+          "name": "Giuliano Simeone",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "ALG",
+      "title": "Algeria",
+      "stickers": [
+        {
+          "code": "ALG1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "ALG2",
+          "name": "Alexis Guendouz",
+          "foil": false
+        },
+        {
+          "code": "ALG3",
+          "name": "Ramy Bensebaini",
+          "foil": false
+        },
+        {
+          "code": "ALG4",
+          "name": "Youcef Atal",
+          "foil": false
+        },
+        {
+          "code": "ALG5",
+          "name": "Rayan Aït-Nouri",
+          "foil": false
+        },
+        {
+          "code": "ALG6",
+          "name": "Mohamed Amine Tougai",
+          "foil": false
+        },
+        {
+          "code": "ALG7",
+          "name": "Aïssa Mandi",
+          "foil": false
+        },
+        {
+          "code": "ALG8",
+          "name": "Ismael Bennacer",
+          "foil": false
+        },
+        {
+          "code": "ALG9",
+          "name": "Houssem Aouar",
+          "foil": false
+        },
+        {
+          "code": "ALG10",
+          "name": "Hicham Boudaoui",
+          "foil": false
+        },
+        {
+          "code": "ALG11",
+          "name": "Ramiz Zerrouki",
+          "foil": false
+        },
+        {
+          "code": "ALG12",
+          "name": "Nabil Bentaleb",
+          "foil": false
+        },
+        {
+          "code": "ALG13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "ALG14",
+          "name": "Farés Chaibi",
+          "foil": false
+        },
+        {
+          "code": "ALG15",
+          "name": "Riyad Mahrez",
+          "foil": false
+        },
+        {
+          "code": "ALG16",
+          "name": "Said Benrahma",
+          "foil": false
+        },
+        {
+          "code": "ALG17",
+          "name": "Anis Hadj Moussa",
+          "foil": false
+        },
+        {
+          "code": "ALG18",
+          "name": "Amine Gouiri",
+          "foil": false
+        },
+        {
+          "code": "ALG19",
+          "name": "Baghdad Bounedjah",
+          "foil": false
+        },
+        {
+          "code": "ALG20",
+          "name": "Mohammed Amoura",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "AUT",
+      "title": "Austria",
+      "stickers": [
+        {
+          "code": "AUT1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "AUT2",
+          "name": "Alexander Schlager",
+          "foil": false
+        },
+        {
+          "code": "AUT3",
+          "name": "Patrick Pentz",
+          "foil": false
+        },
+        {
+          "code": "AUT4",
+          "name": "David Alaba",
+          "foil": false
+        },
+        {
+          "code": "AUT5",
+          "name": "Kevin Danso",
+          "foil": false
+        },
+        {
+          "code": "AUT6",
+          "name": "Philipp Lienhart",
+          "foil": false
+        },
+        {
+          "code": "AUT7",
+          "name": "Stefan Posch",
+          "foil": false
+        },
+        {
+          "code": "AUT8",
+          "name": "Phillipp Mwene",
+          "foil": false
+        },
+        {
+          "code": "AUT9",
+          "name": "Alexander Prass",
+          "foil": false
+        },
+        {
+          "code": "AUT10",
+          "name": "Xaver Schlager",
+          "foil": false
+        },
+        {
+          "code": "AUT11",
+          "name": "Marcel Sabitzer",
+          "foil": false
+        },
+        {
+          "code": "AUT12",
+          "name": "Konrad Laimer",
+          "foil": false
+        },
+        {
+          "code": "AUT13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "AUT14",
+          "name": "Florian Grillitsch",
+          "foil": false
+        },
+        {
+          "code": "AUT15",
+          "name": "Nicolas Seiwald",
+          "foil": false
+        },
+        {
+          "code": "AUT16",
+          "name": "Romano Schmid",
+          "foil": false
+        },
+        {
+          "code": "AUT17",
+          "name": "Patrick Wimmer",
+          "foil": false
+        },
+        {
+          "code": "AUT18",
+          "name": "Christoph Baumgartner",
+          "foil": false
+        },
+        {
+          "code": "AUT19",
+          "name": "Michael Gregoritsch",
+          "foil": false
+        },
+        {
+          "code": "AUT20",
+          "name": "Marko Arnautović",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "JOR",
+      "title": "Jordan",
+      "stickers": [
+        {
+          "code": "JOR1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "JOR2",
+          "name": "Yazeed Abulaila",
+          "foil": false
+        },
+        {
+          "code": "JOR3",
+          "name": "Ihsan Haddad",
+          "foil": false
+        },
+        {
+          "code": "JOR4",
+          "name": "Mohammad Abu Hashish",
+          "foil": false
+        },
+        {
+          "code": "JOR5",
+          "name": "Yazan Al-Arab",
+          "foil": false
+        },
+        {
+          "code": "JOR6",
+          "name": "Abdallah Nasib",
+          "foil": false
+        },
+        {
+          "code": "JOR7",
+          "name": "Saleem Obaid",
+          "foil": false
+        },
+        {
+          "code": "JOR8",
+          "name": "Mohammad Abualnadi",
+          "foil": false
+        },
+        {
+          "code": "JOR9",
+          "name": "Ibrahim Saadeh",
+          "foil": false
+        },
+        {
+          "code": "JOR10",
+          "name": "Nizar Al-Rashdan",
+          "foil": false
+        },
+        {
+          "code": "JOR11",
+          "name": "Noor Al-Rawabdeh",
+          "foil": false
+        },
+        {
+          "code": "JOR12",
+          "name": "Mohannad Abu Taha",
+          "foil": false
+        },
+        {
+          "code": "JOR13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "JOR14",
+          "name": "Amer Jamous",
+          "foil": false
+        },
+        {
+          "code": "JOR15",
+          "name": "Musa Al-Taamari",
+          "foil": false
+        },
+        {
+          "code": "JOR16",
+          "name": "Yazan Al-Naimat",
+          "foil": false
+        },
+        {
+          "code": "JOR17",
+          "name": "Mahmoud Al-Mardi",
+          "foil": false
+        },
+        {
+          "code": "JOR18",
+          "name": "Ali Olwan",
+          "foil": false
+        },
+        {
+          "code": "JOR19",
+          "name": "Mohammad Abu Zrayq",
+          "foil": false
+        },
+        {
+          "code": "JOR20",
+          "name": "Ibrahim Sabra",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "POR",
+      "title": "Portugal",
+      "stickers": [
+        {
+          "code": "POR1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "POR2",
+          "name": "Diogo Costa",
+          "foil": false
+        },
+        {
+          "code": "POR3",
+          "name": "José Sá",
+          "foil": false
+        },
+        {
+          "code": "POR4",
+          "name": "Ruben Dias",
+          "foil": false
+        },
+        {
+          "code": "POR5",
+          "name": "João Cancelo",
+          "foil": false
+        },
+        {
+          "code": "POR6",
+          "name": "Diogo Dalot",
+          "foil": false
+        },
+        {
+          "code": "POR7",
+          "name": "Nuno Mendes",
+          "foil": false
+        },
+        {
+          "code": "POR8",
+          "name": "Gonçalo Inácio",
+          "foil": false
+        },
+        {
+          "code": "POR9",
+          "name": "Bernardo Silva",
+          "foil": false
+        },
+        {
+          "code": "POR10",
+          "name": "Bruno Fernandes",
+          "foil": false
+        },
+        {
+          "code": "POR11",
+          "name": "Ruben Neves",
+          "foil": false
+        },
+        {
+          "code": "POR12",
+          "name": "Vitinha",
+          "foil": false
+        },
+        {
+          "code": "POR13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "POR14",
+          "name": "João Neves",
+          "foil": false
+        },
+        {
+          "code": "POR15",
+          "name": "Cristiano Ronaldo",
+          "foil": false
+        },
+        {
+          "code": "POR16",
+          "name": "Francisco Trincao",
+          "foil": false
+        },
+        {
+          "code": "POR17",
+          "name": "João Felix",
+          "foil": false
+        },
+        {
+          "code": "POR18",
+          "name": "Gonçalo Ramos",
+          "foil": false
+        },
+        {
+          "code": "POR19",
+          "name": "Pedro Neto",
+          "foil": false
+        },
+        {
+          "code": "POR20",
+          "name": "Rafael Leão",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "COD",
+      "title": "Congo DR",
+      "stickers": [
+        {
+          "code": "COD1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "COD2",
+          "name": "Lionel Mpasi-Nzau",
+          "foil": false
+        },
+        {
+          "code": "COD3",
+          "name": "Aaron Wan-Bissaka",
+          "foil": false
+        },
+        {
+          "code": "COD4",
+          "name": "Axel Tuanzebe",
+          "foil": false
+        },
+        {
+          "code": "COD5",
+          "name": "Arthur Masuaku",
+          "foil": false
+        },
+        {
+          "code": "COD6",
+          "name": "Chancel Mbemba",
+          "foil": false
+        },
+        {
+          "code": "COD7",
+          "name": "Joris Kayembe",
+          "foil": false
+        },
+        {
+          "code": "COD8",
+          "name": "Charles Pickel",
+          "foil": false
+        },
+        {
+          "code": "COD9",
+          "name": "Ngal'ayel Mukau",
+          "foil": false
+        },
+        {
+          "code": "COD10",
+          "name": "Edo Kayembe",
+          "foil": false
+        },
+        {
+          "code": "COD11",
+          "name": "Samuel Moutoussamy",
+          "foil": false
+        },
+        {
+          "code": "COD12",
+          "name": "Noah Sadiki",
+          "foil": false
+        },
+        {
+          "code": "COD13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "COD14",
+          "name": "Théo Bongonda",
+          "foil": false
+        },
+        {
+          "code": "COD15",
+          "name": "Meschak Elia",
+          "foil": false
+        },
+        {
+          "code": "COD16",
+          "name": "Yoane Wissa",
+          "foil": false
+        },
+        {
+          "code": "COD17",
+          "name": "Brian Cipenga",
+          "foil": false
+        },
+        {
+          "code": "COD18",
+          "name": "Fiston Mayele",
+          "foil": false
+        },
+        {
+          "code": "COD19",
+          "name": "Cédric Bakambu",
+          "foil": false
+        },
+        {
+          "code": "COD20",
+          "name": "Nathanaël Mbuku",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "UZB",
+      "title": "Uzbekistan",
+      "stickers": [
+        {
+          "code": "UZB1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "UZB2",
+          "name": "Utkir Yusupov",
+          "foil": false
+        },
+        {
+          "code": "UZB3",
+          "name": "Farrukh Savfiev",
+          "foil": false
+        },
+        {
+          "code": "UZB4",
+          "name": "Sherzod Nasrullaev",
+          "foil": false
+        },
+        {
+          "code": "UZB5",
+          "name": "Umar Eshmurodov",
+          "foil": false
+        },
+        {
+          "code": "UZB6",
+          "name": "Husniddin Aliqulov",
+          "foil": false
+        },
+        {
+          "code": "UZB7",
+          "name": "Rustamjon Ashurmatov",
+          "foil": false
+        },
+        {
+          "code": "UZB8",
+          "name": "Khojiakbar Alijonov",
+          "foil": false
+        },
+        {
+          "code": "UZB9",
+          "name": "Abdukodir Khusanov",
+          "foil": false
+        },
+        {
+          "code": "UZB10",
+          "name": "Odiljon Hamrobekov",
+          "foil": false
+        },
+        {
+          "code": "UZB11",
+          "name": "Otabek Shukurov",
+          "foil": false
+        },
+        {
+          "code": "UZB12",
+          "name": "Jamshid Iskanderov",
+          "foil": false
+        },
+        {
+          "code": "UZB13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "UZB14",
+          "name": "Azizbek Turgunboev",
+          "foil": false
+        },
+        {
+          "code": "UZB15",
+          "name": "Khojimat Erkinov",
+          "foil": false
+        },
+        {
+          "code": "UZB16",
+          "name": "Eldor Shomurodov",
+          "foil": false
+        },
+        {
+          "code": "UZB17",
+          "name": "Oston Urunov",
+          "foil": false
+        },
+        {
+          "code": "UZB18",
+          "name": "Jaloliddin Masharipov",
+          "foil": false
+        },
+        {
+          "code": "UZB19",
+          "name": "Igor Sergeev",
+          "foil": false
+        },
+        {
+          "code": "UZB20",
+          "name": "Abbosbek Fayzullaev",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "COL",
+      "title": "Colombia",
+      "stickers": [
+        {
+          "code": "COL1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "COL2",
+          "name": "Camilo Vargas",
+          "foil": false
+        },
+        {
+          "code": "COL3",
+          "name": "David Ospina",
+          "foil": false
+        },
+        {
+          "code": "COL4",
+          "name": "Dávinson Sánchez",
+          "foil": false
+        },
+        {
+          "code": "COL5",
+          "name": "Yerry Mina",
+          "foil": false
+        },
+        {
+          "code": "COL6",
+          "name": "Daniel Munoz",
+          "foil": false
+        },
+        {
+          "code": "COL7",
+          "name": "Johan Mojica",
+          "foil": false
+        },
+        {
+          "code": "COL8",
+          "name": "Jhon Lucumí",
+          "foil": false
+        },
+        {
+          "code": "COL9",
+          "name": "Santiago Arias",
+          "foil": false
+        },
+        {
+          "code": "COL10",
+          "name": "Jefferson Lerma",
+          "foil": false
+        },
+        {
+          "code": "COL11",
+          "name": "Kevin Castaño",
+          "foil": false
+        },
+        {
+          "code": "COL12",
+          "name": "Richard Rios",
+          "foil": false
+        },
+        {
+          "code": "COL13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "COL14",
+          "name": "James Rodriguez",
+          "foil": false
+        },
+        {
+          "code": "COL15",
+          "name": "Juan Fernando Quintero",
+          "foil": false
+        },
+        {
+          "code": "COL16",
+          "name": "Jorge Carrascal",
+          "foil": false
+        },
+        {
+          "code": "COL17",
+          "name": "Jhon Arias",
+          "foil": false
+        },
+        {
+          "code": "COL18",
+          "name": "Jhon Cordova",
+          "foil": false
+        },
+        {
+          "code": "COL19",
+          "name": "Luis Suarez",
+          "foil": false
+        },
+        {
+          "code": "COL20",
+          "name": "Luis Diaz",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "ENG",
+      "title": "England",
+      "stickers": [
+        {
+          "code": "ENG1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "ENG2",
+          "name": "Jordan Pickford",
+          "foil": false
+        },
+        {
+          "code": "ENG3",
+          "name": "John Stones",
+          "foil": false
+        },
+        {
+          "code": "ENG4",
+          "name": "Marc Guéhi",
+          "foil": false
+        },
+        {
+          "code": "ENG5",
+          "name": "Ezri Konsa",
+          "foil": false
+        },
+        {
+          "code": "ENG6",
+          "name": "Trent Alexander-Arnold",
+          "foil": false
+        },
+        {
+          "code": "ENG7",
+          "name": "Reece James",
+          "foil": false
+        },
+        {
+          "code": "ENG8",
+          "name": "Dan Burn",
+          "foil": false
+        },
+        {
+          "code": "ENG9",
+          "name": "Jordan Henderson",
+          "foil": false
+        },
+        {
+          "code": "ENG10",
+          "name": "Declan Rice",
+          "foil": false
+        },
+        {
+          "code": "ENG11",
+          "name": "Jude Bellingham",
+          "foil": false
+        },
+        {
+          "code": "ENG12",
+          "name": "Cole Palmer",
+          "foil": false
+        },
+        {
+          "code": "ENG13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "ENG14",
+          "name": "Morgan Rogers",
+          "foil": false
+        },
+        {
+          "code": "ENG15",
+          "name": "Anthony Gordon",
+          "foil": false
+        },
+        {
+          "code": "ENG16",
+          "name": "Phil Foden",
+          "foil": false
+        },
+        {
+          "code": "ENG17",
+          "name": "Bukayo Saka",
+          "foil": false
+        },
+        {
+          "code": "ENG18",
+          "name": "Harry Kane",
+          "foil": false
+        },
+        {
+          "code": "ENG19",
+          "name": "Marcus Rashford",
+          "foil": false
+        },
+        {
+          "code": "ENG20",
+          "name": "Ollie Watkins",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "CRO",
+      "title": "Croatia",
+      "stickers": [
+        {
+          "code": "CRO1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "CRO2",
+          "name": "Dominik Livaković",
+          "foil": false
+        },
+        {
+          "code": "CRO3",
+          "name": "Duje Caleta-Car",
+          "foil": false
+        },
+        {
+          "code": "CRO4",
+          "name": "Josko Gvardiol",
+          "foil": false
+        },
+        {
+          "code": "CRO5",
+          "name": "Josip Stanišić",
+          "foil": false
+        },
+        {
+          "code": "CRO6",
+          "name": "Luka Vušković",
+          "foil": false
+        },
+        {
+          "code": "CRO7",
+          "name": "Josip Sutalo",
+          "foil": false
+        },
+        {
+          "code": "CRO8",
+          "name": "Kristijan Jakic",
+          "foil": false
+        },
+        {
+          "code": "CRO9",
+          "name": "Luka Modrić",
+          "foil": false
+        },
+        {
+          "code": "CRO10",
+          "name": "Mateo Kovacic",
+          "foil": false
+        },
+        {
+          "code": "CRO11",
+          "name": "Martin Baturina",
+          "foil": false
+        },
+        {
+          "code": "CRO12",
+          "name": "Lovro Majer",
+          "foil": false
+        },
+        {
+          "code": "CRO13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "CRO14",
+          "name": "Mario Pasalic",
+          "foil": false
+        },
+        {
+          "code": "CRO15",
+          "name": "Petar Sucic",
+          "foil": false
+        },
+        {
+          "code": "CRO16",
+          "name": "Ivan Perišić",
+          "foil": false
+        },
+        {
+          "code": "CRO17",
+          "name": "Marco Pasalic",
+          "foil": false
+        },
+        {
+          "code": "CRO18",
+          "name": "Ante Budimir",
+          "foil": false
+        },
+        {
+          "code": "CRO19",
+          "name": "Andrej Kramarić",
+          "foil": false
+        },
+        {
+          "code": "CRO20",
+          "name": "Franjo Ivanovic",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "GHA",
+      "title": "Ghana",
+      "stickers": [
+        {
+          "code": "GHA1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "GHA2",
+          "name": "Lawrence Ati Zigi",
+          "foil": false
+        },
+        {
+          "code": "GHA3",
+          "name": "Tariq Lamptey",
+          "foil": false
+        },
+        {
+          "code": "GHA4",
+          "name": "Mohammed Salisu",
+          "foil": false
+        },
+        {
+          "code": "GHA5",
+          "name": "Alidu Seidu",
+          "foil": false
+        },
+        {
+          "code": "GHA6",
+          "name": "Alexander Djiku",
+          "foil": false
+        },
+        {
+          "code": "GHA7",
+          "name": "Gideon Mensah",
+          "foil": false
+        },
+        {
+          "code": "GHA8",
+          "name": "Caleb Yirenkyi",
+          "foil": false
+        },
+        {
+          "code": "GHA9",
+          "name": "Abdul Issahaku Fatawu",
+          "foil": false
+        },
+        {
+          "code": "GHA10",
+          "name": "Thomas Partey",
+          "foil": false
+        },
+        {
+          "code": "GHA11",
+          "name": "Salis Abdul Samed",
+          "foil": false
+        },
+        {
+          "code": "GHA12",
+          "name": "Kamaldeen Sulemana",
+          "foil": false
+        },
+        {
+          "code": "GHA13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "GHA14",
+          "name": "Mohammed Kudus",
+          "foil": false
+        },
+        {
+          "code": "GHA15",
+          "name": "Inaki Williams",
+          "foil": false
+        },
+        {
+          "code": "GHA16",
+          "name": "Jordan Ayew",
+          "foil": false
+        },
+        {
+          "code": "GHA17",
+          "name": "André Ayew",
+          "foil": false
+        },
+        {
+          "code": "GHA18",
+          "name": "Joseph Paintsil",
+          "foil": false
+        },
+        {
+          "code": "GHA19",
+          "name": "Osman Bukari",
+          "foil": false
+        },
+        {
+          "code": "GHA20",
+          "name": "Antoine Semenyo",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "PAN",
+      "title": "Panama",
+      "stickers": [
+        {
+          "code": "PAN1",
+          "name": "Emblem",
+          "foil": true
+        },
+        {
+          "code": "PAN2",
+          "name": "Orlando Mosquera",
+          "foil": false
+        },
+        {
+          "code": "PAN3",
+          "name": "Luis Mejia",
+          "foil": false
+        },
+        {
+          "code": "PAN4",
+          "name": "Fidel Escobar",
+          "foil": false
+        },
+        {
+          "code": "PAN5",
+          "name": "Andres Andrade",
+          "foil": false
+        },
+        {
+          "code": "PAN6",
+          "name": "Michael Amir Murillo",
+          "foil": false
+        },
+        {
+          "code": "PAN7",
+          "name": "Eric Davis",
+          "foil": false
+        },
+        {
+          "code": "PAN8",
+          "name": "Jose Cordoba",
+          "foil": false
+        },
+        {
+          "code": "PAN9",
+          "name": "Cesar Blackman",
+          "foil": false
+        },
+        {
+          "code": "PAN10",
+          "name": "Cristian Martinez",
+          "foil": false
+        },
+        {
+          "code": "PAN11",
+          "name": "Aníbal Godoy",
+          "foil": false
+        },
+        {
+          "code": "PAN12",
+          "name": "Adalberto Carrasquilla",
+          "foil": false
+        },
+        {
+          "code": "PAN13",
+          "name": "Team Photo",
+          "foil": false
+        },
+        {
+          "code": "PAN14",
+          "name": "Édgar Bárcenas",
+          "foil": false
+        },
+        {
+          "code": "PAN15",
+          "name": "Carlos Harvey",
+          "foil": false
+        },
+        {
+          "code": "PAN16",
+          "name": "Ismael Díaz",
+          "foil": false
+        },
+        {
+          "code": "PAN17",
+          "name": "Jose Fajardo",
+          "foil": false
+        },
+        {
+          "code": "PAN18",
+          "name": "Cecilio Waterman",
+          "foil": false
+        },
+        {
+          "code": "PAN19",
+          "name": "Jose Luiz Rodriguez",
+          "foil": false
+        },
+        {
+          "code": "PAN20",
+          "name": "Alberto Quintero",
+          "foil": false
+        }
+      ]
+    },
+    {
+      "name": "FWC",
+      "title": "FIFA World Cup",
+      "stickers": [
+        {
+          "code": "00",
+          "name": "Panini Logo",
+          "foil": true
+        },
+        {
+          "code": "FWC1",
+          "name": "Official Emblem 1",
+          "foil": true
+        },
+        {
+          "code": "FWC2",
+          "name": "Official Emblem 2",
+          "foil": true
+        },
+        {
+          "code": "FWC3",
+          "name": "Official Mascots",
+          "foil": true
+        },
+        {
+          "code": "FWC4",
+          "name": "Official Slogan",
+          "foil": true
+        },
+        {
+          "code": "FWC5",
+          "name": "Official Ball",
+          "foil": true
+        },
+        {
+          "code": "FWC6",
+          "name": "Canada",
+          "foil": true
+        },
+        {
+          "code": "FWC7",
+          "name": "Mexico",
+          "foil": true
+        },
+        {
+          "code": "FWC8",
+          "name": "USA",
+          "foil": true
+        },
+        {
+          "code": "FWC9",
+          "name": "Italy 1934",
+          "foil": true
+        },
+        {
+          "code": "FWC10",
+          "name": "Uruguay 1950",
+          "foil": true
+        },
+        {
+          "code": "FWC11",
+          "name": "West Germany 1954",
+          "foil": true
+        },
+        {
+          "code": "FWC12",
+          "name": "Brazil 1962",
+          "foil": true
+        },
+        {
+          "code": "FWC13",
+          "name": "West Germany 1974",
+          "foil": true
+        },
+        {
+          "code": "FWC14",
+          "name": "Argentina 1986",
+          "foil": true
+        },
+        {
+          "code": "FWC15",
+          "name": "Brazil 1994",
+          "foil": true
+        },
+        {
+          "code": "FWC16",
+          "name": "Brazil 2002",
+          "foil": true
+        },
+        {
+          "code": "FWC17",
+          "name": "Italy 2006",
+          "foil": true
+        },
+        {
+          "code": "FWC18",
+          "name": "Germany 2014",
+          "foil": true
+        },
+        {
+          "code": "FWC19",
+          "name": "Argentina 2022",
+          "foil": true
+        }
+      ]
+    },
+    {
+      "name": "MISC",
+      "title": "Bonus Stickers",
+      "stickers": [
+        {
+          "code": "AD",
+          "name": "Alphonso Davies",
+          "foil": false
+        },
+        {
+          "code": "AH",
+          "name": "Achraf Hakimi",
+          "foil": false
+        },
+        {
+          "code": "CG",
+          "name": "Cody Gakpo",
+          "foil": false
+        },
+        {
+          "code": "CP",
+          "name": "Christian Pulisic",
+          "foil": false
+        },
+        {
+          "code": "CR",
+          "name": "Cristiano Ronaldo",
+          "foil": false
+        },
+        {
+          "code": "EH",
+          "name": "Erling Haaland",
+          "foil": false
+        },
+        {
+          "code": "FV",
+          "name": "Federico Valverde",
+          "foil": false
+        },
+        {
+          "code": "FW",
+          "name": "Florian Wirtz",
+          "foil": false
+        },
+        {
+          "code": "HS",
+          "name": "Heung-min Son",
+          "foil": false
+        },
+        {
+          "code": "JB",
+          "name": "Jude Bellingham",
+          "foil": false
+        },
+        {
+          "code": "JD",
+          "name": "Jérémy Doku",
+          "foil": false
+        },
+        {
+          "code": "KM",
+          "name": "Kylian Mbappé",
+          "foil": false
+        },
+        {
+          "code": "LD",
+          "name": "Luis Díaz",
+          "foil": false
+        },
+        {
+          "code": "LM",
+          "name": "Lionel Messi",
+          "foil": false
+        },
+        {
+          "code": "LMO",
+          "name": "Luka Modrić",
+          "foil": false
+        },
+        {
+          "code": "LY",
+          "name": "Lamine Yamal",
+          "foil": false
+        },
+        {
+          "code": "MC",
+          "name": "Moisés Caicedo",
+          "foil": false
+        },
+        {
+          "code": "MS",
+          "name": "Mohamed Salah",
+          "foil": false
+        },
+        {
+          "code": "RJ",
+          "name": "Raúl Jiménez",
+          "foil": false
+        },
+        {
+          "code": "VJ",
+          "name": "Vinícíús Júnior",
+          "foil": false
+        }
+      ]
+    }
+  ]
+}
