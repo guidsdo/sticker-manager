@@ -67,11 +67,16 @@ export class CollectionStore {
     private readSectionFromPath(): string | null {
         if (typeof window === "undefined") return null;
 
-        const raw = window.location.pathname.replace(/^\/+|\/+$/g, "").trim();
+        const hashRoute = window.location.hash
+            .replace(/^#\/?/, "")
+            .replace(/^\/+|\/+$/g, "")
+            .trim();
+        const pathRoute = window.location.pathname.replace(/^\/+|\/+$/g, "").trim();
+        const raw = hashRoute || pathRoute;
         if (!raw) return null;
 
         const segments = raw.split("/").filter(Boolean);
-        const section = segments[0];
+        const section = segments[segments.length - 1];
         if (!section) return null;
 
         return decodeURIComponent(section).toUpperCase();
@@ -80,10 +85,10 @@ export class CollectionStore {
     private writeSectionToPath(sectionName: string, mode: "push" | "replace" = "push") {
         if (typeof window === "undefined") return;
 
-        const nextPath = `/${encodeURIComponent(sectionName)}`;
-        if (window.location.pathname === nextPath) return;
+        const nextHash = `#/${encodeURIComponent(sectionName)}`;
+        if (window.location.hash === nextHash) return;
 
-        const nextUrl = `${nextPath}${window.location.search}`;
+        const nextUrl = `${window.location.pathname}${window.location.search}${nextHash}`;
         if (mode === "replace") window.history.replaceState(null, "", nextUrl);
         else window.history.pushState(null, "", nextUrl);
     }

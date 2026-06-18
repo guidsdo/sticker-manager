@@ -1,8 +1,10 @@
+import catalogData from "@ima-stickermanage/contracts/dataset";
 import type { Catalog, ImportPayload, Ownership } from "@ima-stickermanage/contracts/types";
 import { api as serverApi } from "./api";
 
 const STORAGE_KEY = "panini-collection";
 const MODE_KEY = "panini-mode";
+const bundledCatalog = catalogData as Catalog;
 
 async function isServerHealthy(): Promise<boolean> {
     try {
@@ -56,8 +58,9 @@ const clientStorage = {
 
     async loadCatalog(): Promise<Catalog> {
         if (this.catalog) return this.catalog;
-        // Fallback: fetch from server but store locally
-        this.catalog = await serverApi.catalog();
+
+        // Static hosting cannot serve /api/catalog, so bundle the dataset for client mode.
+        this.catalog = bundledCatalog;
         return this.catalog;
     },
 
