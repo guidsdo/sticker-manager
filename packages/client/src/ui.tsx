@@ -84,7 +84,7 @@ export const SortToggle = styled.button<{ $on: boolean }>`
 `;
 
 export const Brand = styled.div`
-    font-family: "Sora", "Manrope", sans-serif;
+    font-family: "Fira Sans", "Avenir Next", "Segoe UI", sans-serif;
     font-weight: 800;
     font-size: 17px;
     letter-spacing: 0.2px;
@@ -134,14 +134,33 @@ export const TeamButton = styled.button<{ $active: boolean }>`
 `;
 
 export const TeamFlag = styled.span`
-    font-size: 18px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 21px;
+    line-height: 1;
     width: 22px;
     text-align: center;
 `;
 
 export const TeamName = styled.span`
+    display: flex;
+    align-items: center;
+    gap: 6px;
     flex: 1;
     white-space: nowrap;
+    overflow: hidden;
+    min-width: 0;
+`;
+
+export const TeamCode = styled.span`
+    font-family: "Fira Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+    font-weight: 700;
+    flex-shrink: 0;
+`;
+
+export const TeamCountryName = styled.span`
+    font-family: "Fira Sans", "Avenir Next", "Segoe UI", sans-serif;
     overflow: hidden;
     text-overflow: ellipsis;
 `;
@@ -243,7 +262,7 @@ export const StatCard = styled.div`
 
 export const StatValue = styled.div`
     font-size: 22px;
-    font-weight: 800;
+    font-weight: 600;
 `;
 
 export const StatLabel = styled.div`
@@ -388,6 +407,7 @@ export const CardTop = styled.div`
 `;
 
 export const Code = styled.span<{ $foil?: boolean }>`
+    font-family: "Fira Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
     font-weight: 800;
     font-size: 14px;
     letter-spacing: 0.3px;
@@ -458,7 +478,7 @@ export const StepBtn = styled.button`
 export const Qty = styled.span<{ $double: boolean }>`
     min-width: 26px;
     text-align: center;
-    font-weight: 800;
+    font-weight: 600;
     color: ${p => (p.$double ? t.gold : t.text)};
 `;
 
@@ -514,7 +534,7 @@ export const TextArea = styled.textarea`
     border: 1px solid ${t.border};
     border-radius: 10px;
     padding: 12px;
-    font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+    font-family: "Fira Sans", "Avenir Next", "Segoe UI", sans-serif;
     font-size: 13px;
     resize: vertical;
 `;

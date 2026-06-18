@@ -57,8 +57,8 @@ export const ImportExportModal = observer(function ImportExportModal() {
                         <>
                             <U.Hint>
                                 Export uses comma-separated values. When importing, you can separate entries with either ", " or new lines.
-                                Doubles use CODE followed by spare count (example: ARG3 2). If Ignore Bonus is enabled, MISC stickers are
-                                excluded.
+                                Doubles use CODE with an optional spare-count ID in parentheses (example: USA2 (2)). If there is only one,
+                                omit the parentheses. If Ignore Bonus is enabled, MISC stickers are excluded.
                             </U.Hint>
                             <U.Hint>Missing</U.Hint>
                             <U.TextArea value={missingText} onChange={e => setMissingText(e.target.value)} rows={6} spellCheck={false} />
@@ -71,7 +71,8 @@ export const ImportExportModal = observer(function ImportExportModal() {
                         <>
                             <U.Hint>
                                 List owned stickers and their doubles separately. Owned stickers are listed without counts. Doubles use CODE
-                                followed by spare count. If Ignore Bonus is enabled, MISC stickers are preserved separately.
+                                with an optional spare-count ID in parentheses (example: USA2 (2)); omit parentheses when it is one. If
+                                Ignore Bonus is enabled, MISC stickers are preserved separately.
                             </U.Hint>
                             <U.Hint>Owned</U.Hint>
                             <U.TextArea

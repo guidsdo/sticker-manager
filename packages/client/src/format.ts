@@ -19,7 +19,10 @@ export function serializeMissingCodes(codes: string[]): string {
 export function serializeDoublesEntries(doubles: Record<string, number>): string {
     return Object.keys(doubles)
         .sort(byCode)
-        .map(code => `${code} ${doubles[code]}`)
+        .map(code => {
+            const spares = Math.max(1, Math.floor(Number(doubles[code]) || 1));
+            return spares > 1 ? `${code} (${spares})` : code;
+        })
         .join(", ");
 }
 
@@ -98,7 +101,19 @@ function parseMissingEntry(entry: string): string | null {
 }
 
 function parseDoubleEntry(entry: string): { code: string; spares: number } | null {
-    const [rawCode, rawCount] = entry.split(/\s+/);
+    const trimmed = entry.trim();
+    if (!trimmed) return null;
+
+    const parenthesized = /^([^\s(]+)\s*\(\s*(\d+)\s*\)\s*$/u.exec(trimmed);
+    if (parenthesized) {
+        const code = parenthesized[1]?.trim();
+        const count = parenthesized[2];
+        if (!code) return null;
+        const spares = Math.max(1, Math.floor(Number(count) || 1));
+        return { code: code.toUpperCase(), spares };
+    }
+
+    const [rawCode, rawCount] = trimmed.split(/\s+/);
     const code = rawCode?.trim();
     if (!code) return null;
 

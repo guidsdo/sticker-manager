@@ -109,7 +109,7 @@ export class CollectionStore {
         if (!this.catalog) return [];
         if (!this.sortAlphabetical) return this.catalog.sections;
 
-        return [...this.catalog.sections].sort((a, b) => a.title.localeCompare(b.title));
+        return [...this.catalog.sections].sort((a, b) => a.name.localeCompare(b.name, undefined, { numeric: true }));
     }
 
     @computed

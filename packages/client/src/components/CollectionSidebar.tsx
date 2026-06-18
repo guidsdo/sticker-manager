@@ -28,7 +28,7 @@ export const CollectionSidebar = observer(function CollectionSidebar() {
                 </U.BrandSub>
                 <U.SidebarHeaderRow>
                     <U.SortToggle $on={store.sortAlphabetical} onClick={store.toggleSortAlphabetical}>
-                        {store.sortAlphabetical ? "Original order" : "Sort A-Z"}
+                        {store.sortAlphabetical ? "Original order" : "Sort by code"}
                     </U.SortToggle>
                 </U.SidebarHeaderRow>
             </U.SidebarHeader>
@@ -41,8 +41,11 @@ export const CollectionSidebar = observer(function CollectionSidebar() {
                             $active={section.name === store.activeSection}
                             onClick={() => store.setActiveSection(section.name)}
                         >
-                            <U.TeamFlag>{flag(section.name)}</U.TeamFlag>
-                            <U.TeamName>{section.title}</U.TeamName>
+                            <U.TeamName>
+                                <U.TeamFlag>{flag(section.name)}</U.TeamFlag>
+                                <U.TeamCode>{section.name}</U.TeamCode>
+                                <U.TeamCountryName>- {section.title}</U.TeamCountryName>
+                            </U.TeamName>
                             <U.Pill $complete={stats.have === stats.total}>
                                 {stats.have}/{stats.total}
                             </U.Pill>

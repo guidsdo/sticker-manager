@@ -13,7 +13,7 @@ const GlobalStyle = createGlobalStyle`
       radial-gradient(circle at 50% 0%, rgba(10, 132, 255, 0.22), transparent 38%),
       ${theme.bg};
     color: ${theme.text};
-    font-family: "Manrope", "Avenir Next", "Segoe UI", sans-serif;
+    font-family: "Fira Sans", "Avenir Next", "Segoe UI", sans-serif;
   }
   * { box-sizing: border-box; }
   button { font-family: inherit; }
