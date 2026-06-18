@@ -3,6 +3,8 @@
 **🌐 Use it here:** [https://guidsdo.github.io/sticker-manager/](https://guidsdo.github.io/sticker-manager/)
 
 > No installation or account needed. Your collection is stored in your browser's local storage — as long as you use the same browser, your data persists. Use the Export feature to back it up.
+>
+> **Using multiple devices?** Browser local storage does not sync across devices, even with a signed-in Chrome or Edge account. Use **Export** on one device and **Import** on another to transfer your collection. For seamless cross-device sync, you can self-host the included backend server instead.
 
 ## How to Use the Website
 
