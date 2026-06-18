@@ -1,4 +1,6 @@
 import { observer } from "mobx-react-lite";
+import { flag } from "../flags";
+import { getSectionVisual } from "../sectionStyles";
 import { collectionStore as store } from "../stores/CollectionStore";
 import { StickerCard } from "./StickerCard";
 import * as U from "../ui";
@@ -51,23 +53,33 @@ export const StickerGrid = observer(function StickerGrid() {
         );
     }
 
-    const renderPage = (label: string, slots: Slot[]) => (
-        <U.AlbumPage>
-            <U.AlbumPageTitle>{label}</U.AlbumPageTitle>
-            <U.AlbumGrid>
-                {slots.map(slot => {
-                    const sticker = section.stickers[slot.index - 1];
-                    if (!sticker) return null;
+    const renderPage = (label: string, slots: Slot[], align: "left" | "right", page: 1 | 2) => {
+        const visual = getSectionVisual(section.name, page);
 
-                    return (
-                        <U.AlbumCell key={sticker.code} $col={slot.col} $row={slot.row} $span={slot.span}>
-                            <StickerCard sticker={sticker} orientation={slot.orientation} />
-                        </U.AlbumCell>
-                    );
-                })}
-            </U.AlbumGrid>
-        </U.AlbumPage>
-    );
+        return (
+            <U.AlbumPage
+                $flagGradient={visual.gradient}
+                $flagEdge={visual.edge}
+                $flagGlow={visual.glow}
+                $flag={flag(section.name)}
+                $page={page}
+            >
+                <U.AlbumPageTitle>{label}</U.AlbumPageTitle>
+                <U.AlbumGrid $align={align}>
+                    {slots.map(slot => {
+                        const sticker = section.stickers[slot.index - 1];
+                        if (!sticker) return null;
+
+                        return (
+                            <U.AlbumCell key={sticker.code} $col={slot.col} $row={slot.row} $span={slot.span}>
+                                <StickerCard sticker={sticker} orientation={slot.orientation} />
+                            </U.AlbumCell>
+                        );
+                    })}
+                </U.AlbumGrid>
+            </U.AlbumPage>
+        );
+    };
 
     const slotted = new Set([...PAGE_1_SLOTS, ...PAGE_2_SLOTS].map(slot => slot.index));
     const overflow = section.stickers.filter((_, index) => !slotted.has(index + 1));
@@ -75,8 +87,8 @@ export const StickerGrid = observer(function StickerGrid() {
     return (
         <>
             <U.Album>
-                {renderPage("Page 1", PAGE_1_SLOTS)}
-                {renderPage("Page 2", PAGE_2_SLOTS)}
+                {renderPage("Page 1", PAGE_1_SLOTS, "right", 1)}
+                {renderPage("Page 2", PAGE_2_SLOTS, "left", 2)}
             </U.Album>
             {overflow.length > 0 && (
                 <U.Grid style={{ marginTop: 16 }}>

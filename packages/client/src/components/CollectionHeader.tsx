@@ -19,7 +19,7 @@ export const CollectionHeader = observer(function CollectionHeader() {
                     Mark Group Owned
                 </U.Button>
                 <U.Button onClick={store.toggleIgnoreBonusStickers}>
-                    {store.ignoreBonusStickers ? "Include Bonus" : "Ignore Bonus"}
+                    {store.ignoreBonusStickers ? "Include Bonus Stickers" : "Ignore Bonus Stickers"}
                 </U.Button>
                 <U.Button onClick={store.openImportExport}>Import / Export</U.Button>
                 <U.Button $variant="danger" onClick={store.confirmAndReset}>

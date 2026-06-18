@@ -2,18 +2,63 @@ import styled from "styled-components";
 import { theme as t } from "./theme";
 
 export const Shell = styled.div`
+    position: relative;
+    isolation: isolate;
     display: grid;
     grid-template-columns: 290px 1fr;
     height: 100vh;
     overflow: hidden;
+    background:
+        radial-gradient(circle at 14% 8%, rgba(0, 201, 120, 0.32), transparent 36%),
+        radial-gradient(circle at 82% 14%, rgba(255, 47, 69, 0.34), transparent 40%),
+        conic-gradient(from 230deg at 72% 12%, rgba(10, 132, 255, 0.24), transparent 42%, rgba(255, 47, 69, 0.26) 72%, transparent 100%),
+        linear-gradient(140deg, #050a1d 0%, #091431 45%, #0f2050 100%);
+
+    &::before {
+        content: "";
+        position: absolute;
+        inset: 0;
+        background-image: ${t.patternMark};
+        background-size: 320px 320px;
+        opacity: 0.34;
+        pointer-events: none;
+        z-index: 0;
+    }
+
+    &::after {
+        content: "";
+        position: absolute;
+        inset: 0;
+        background:
+            linear-gradient(115deg, rgba(10, 132, 255, 0.18), transparent 45%),
+            linear-gradient(295deg, rgba(0, 201, 120, 0.16), transparent 48%), ${t.patternBurst};
+        background-size:
+            auto,
+            auto,
+            180px 180px;
+        pointer-events: none;
+        z-index: 0;
+    }
+
+    > * {
+        position: relative;
+        z-index: 1;
+    }
 `;
 
 export const Sidebar = styled.aside`
-    background: ${t.bgPanel};
+    background: linear-gradient(180deg, rgba(16, 31, 74, 0.97), rgba(8, 18, 44, 0.97)), ${t.patternWave}, ${t.patternBurst};
+    background-size:
+        auto,
+        220px 220px,
+        180px 180px;
     border-right: 1px solid ${t.border};
     display: flex;
     flex-direction: column;
     min-height: 0;
+    box-shadow:
+        inset -1px 0 0 rgba(255, 255, 255, 0.08),
+        14px 0 32px rgba(2, 8, 20, 0.35);
 `;
 
 export const SidebarHeader = styled.div`
@@ -61,7 +106,10 @@ export const TeamList = styled.nav`
 export const TeamButton = styled.button<{ $active: boolean }>`
     width: 100%;
     text-align: left;
-    background: ${p => (p.$active ? t.bgPanel2 : "transparent")};
+    background: ${p =>
+        p.$active
+            ? "linear-gradient(110deg, rgba(31, 123, 255, 0.24), rgba(19, 178, 107, 0.2) 58%, rgba(217, 54, 68, 0.2))"
+            : "transparent"};
     color: ${t.text};
     border: 1px solid ${p => (p.$active ? t.border : "transparent")};
     border-radius: 10px;
@@ -72,6 +120,17 @@ export const TeamButton = styled.button<{ $active: boolean }>`
     align-items: center;
     gap: 10px;
     font-size: 14px;
+    transition:
+        transform 140ms ease,
+        box-shadow 140ms ease,
+        border-color 140ms ease;
+
+    &:hover {
+        transform: translateX(2px);
+        border-color: ${t.blue};
+    }
+
+    ${p => p.$active && `box-shadow: 0 8px 18px rgba(10, 132, 255, 0.26), inset 0 0 0 1px rgba(255, 255, 255, 0.07);`}
 `;
 
 export const TeamFlag = styled.span`
@@ -98,9 +157,15 @@ export const Pill = styled.span<{ $complete?: boolean }>`
 `;
 
 export const Main = styled.main`
+    overflow-x: auto;
     overflow-y: auto;
     min-height: 0;
     padding: 22px 28px 60px;
+    background: linear-gradient(180deg, rgba(7, 15, 40, 0.42), rgba(7, 15, 40, 0.86)), ${t.patternWave}, ${t.patternBurst};
+    background-size:
+        auto,
+        260px 260px,
+        180px 180px;
 `;
 
 export const TopBar = styled.div`
@@ -118,6 +183,10 @@ export const PageTitle = styled.h1`
     display: flex;
     align-items: center;
     gap: 12px;
+    color: #ffffff;
+    text-shadow:
+        0 0 14px rgba(10, 132, 255, 0.36),
+        0 0 22px rgba(255, 47, 69, 0.16);
 `;
 
 export const Toolbar = styled.div`
@@ -134,9 +203,20 @@ export const Button = styled.button<{ $variant?: "primary" | "ghost" | "danger" 
     cursor: pointer;
     border: 1px solid ${t.border};
     color: ${t.text};
-    background: ${p => (p.$variant === "primary" ? t.accent : p.$variant === "danger" ? "transparent" : t.bgPanel2)};
+    background: ${p =>
+        p.$variant === "primary" ? "linear-gradient(115deg, #13b26b, #1f7bff 72%)" : p.$variant === "danger" ? "transparent" : t.bgPanel2};
     ${p => p.$variant === "primary" && `color:${t.bg}; border-color:${t.accent};`}
     ${p => p.$variant === "danger" && `color:${t.danger}; border-color:${t.danger};`}
+    transition:
+        transform 140ms ease,
+        box-shadow 140ms ease,
+        filter 140ms ease;
+
+    &:hover {
+        transform: translateY(-1px);
+        filter: saturate(1.08);
+        box-shadow: 0 10px 20px rgba(4, 10, 24, 0.35);
+    }
 `;
 
 export const StatRow = styled.div`
@@ -147,11 +227,18 @@ export const StatRow = styled.div`
 `;
 
 export const StatCard = styled.div`
-    background: ${t.bgPanel};
+    background: linear-gradient(165deg, rgba(16, 31, 74, 0.93), rgba(8, 18, 44, 0.95)), ${t.patternMark}, ${t.patternBurst};
+    background-size:
+        auto,
+        240px 240px,
+        180px 180px;
     border: 1px solid ${t.border};
     border-radius: 12px;
     padding: 12px 16px;
     min-width: 120px;
+    box-shadow:
+        0 14px 28px rgba(3, 8, 20, 0.35),
+        inset 0 0 0 1px rgba(255, 255, 255, 0.05);
 `;
 
 export const StatValue = styled.div`
@@ -187,19 +274,54 @@ export const Grid = styled.div`
 
 export const Album = styled.div`
     display: grid;
-    grid-template-columns: repeat(2, minmax(320px, 1fr));
+    grid-template-columns: repeat(2, 670px);
+    justify-content: center;
     gap: 16px;
 
-    @media (max-width: 1080px) {
-        grid-template-columns: 1fr;
+    @media (max-width: 1360px) {
+        grid-template-columns: 670px;
     }
 `;
 
-export const AlbumPage = styled.section`
-    background: ${t.bgPanel};
-    border: 1px solid ${t.border};
+export const AlbumPage = styled.section<{ $flagGradient?: string; $flagEdge?: string; $flagGlow?: string; $flag?: string; $page?: 1 | 2 }>`
+    width: 670px;
+    min-width: 670px;
+    max-width: 670px;
+    box-sizing: border-box;
+    position: relative;
+    overflow: hidden;
+    background:
+        ${p => (p.$flagGradient ? `${p.$flagGradient}, ` : "")}linear-gradient(165deg, rgba(16, 31, 74, 0.95), rgba(8, 18, 44, 0.98)),
+        ${t.patternMark},
+        ${t.patternBurst};
+    background-size:
+        auto,
+        280px 280px,
+        180px 180px;
+    border: 1px solid ${p => p.$flagEdge ?? t.border};
     border-radius: 14px;
     padding: 14px;
+    box-shadow:
+        ${p => p.$flagGlow ?? "none"},
+        0 18px 34px rgba(2, 8, 20, 0.4),
+        0 0 0 1px rgba(255, 255, 255, 0.05) inset;
+
+    &::before {
+        content: "${p => (p.$page === 1 ? p.$flag : "")}";
+        position: absolute;
+        left: 80px;
+        top: 30px;
+        font-size: 200px;
+        opacity: 0.28;
+        line-height: 1;
+        pointer-events: none;
+        filter: saturate(1.25);
+    }
+
+    > * {
+        position: relative;
+        z-index: 1;
+    }
 `;
 
 export const AlbumPageTitle = styled.div`
@@ -211,10 +333,13 @@ export const AlbumPageTitle = styled.div`
     letter-spacing: 0.4px;
 `;
 
-export const AlbumGrid = styled.div`
+export const AlbumGrid = styled.div<{ $align?: "left" | "right" }>`
     display: grid;
     grid-template-columns: repeat(4, 150px);
     gap: 10px;
+    width: max-content;
+    margin-left: ${p => (p.$align === "right" ? "auto" : "0")};
+    margin-right: ${p => (p.$align === "right" ? "0" : "auto")};
 `;
 
 export const AlbumCell = styled.div<{ $col: number; $row: number; $span?: number }>`
