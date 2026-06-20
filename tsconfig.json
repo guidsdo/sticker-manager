@@ -1,5 +1,11 @@
 {
   "include": [],
   "files": [],
-  "references": [{ "path": "./packages/client" }, { "path": "./packages/server" }, { "path": "./packages/contracts" }]
+  "references": [
+    { "path": "./packages/client" },
+    { "path": "./packages/server" },
+    { "path": "./packages/contracts" },
+    { "path": "./packages/messagebus" },
+    { "path": "./packages/desktop" }
+  ]
 }

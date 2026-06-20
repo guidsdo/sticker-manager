@@ -1,7 +1,16 @@
 import { spawn, spawnSync } from "node:child_process";
 
 const esbuildCmd = process.platform === "win32" ? "esbuild.cmd" : "esbuild";
-const buildArgs = ["src/index.ts", "--bundle", "--platform=node", "--format=esm", "--packages=external", "--outfile=dist/server.js"];
+const buildArgs = [
+    "src/index.ts",
+    "--bundle",
+    "--platform=node",
+    "--format=esm",
+    "--external:better-sqlite3",
+    "--external:express",
+    "--loader:.json=json",
+    "--outfile=dist/server.js"
+];
 
 const initial = spawnSync(esbuildCmd, buildArgs, { stdio: "inherit" });
 if (initial.status !== 0) {

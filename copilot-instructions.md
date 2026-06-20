@@ -7,3 +7,4 @@ Follow these project-specific coding practices:
 - If a file has one main export, name the file after that export, including capital letters when appropriate.
 - Keep responsibilities narrow. Do not put unrelated logic, data shaping, state management, and UI rendering in the same file, class, or component.
 - Give React component files names that clearly imply UI concerns. Good examples: `CollectionHeader.tsx`, `StickerGrid.tsx`. Avoid vague names like `ImportExport.tsx`; prefer names that read like a UI component, such as `ImportExportDialog.tsx` or `CollectionImportExport.tsx`.
+- Always use an `esbuild.config.mjs` file for build configuration instead of inline esbuild CLI flags in `package.json` scripts. The `build` script should just be `node esbuild.config.mjs` (optionally preceded by prerequisite build steps). This keeps build options discoverable and maintainable.

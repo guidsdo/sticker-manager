@@ -7,7 +7,9 @@
   "type": "module",
   "scripts": {
     "build": "turbo run build",
+    "build:desktop": "pnpm --filter @ima-stickermanage/desktop build",
     "dev": "turbo run dev --filter=@ima-stickermanage/client --filter=@ima-stickermanage/server",
+    "dev:desktop": "turbo run dev --filter=@ima-stickermanage/client --filter=@ima-stickermanage/desktop",
     "lint": "turbo run lint",
     "lint:fix": "turbo run lint:fix",
     "format": "turbo run format",
@@ -21,8 +23,9 @@
     "eslint-plugin-react-hooks": "^7.1.1",
     "eslint-plugin-react-refresh": "^0.5.3",
     "globals": "^17.6.0",
-    "prettier": "^3.8.4",
-    "turbo": "^2.5.5",
+    "prettier": "catalog:default",
+    "turbo": "^2.9.18",
+    "typescript": "catalog:default",
     "typescript-eslint": "^8.61.1"
   }
 }

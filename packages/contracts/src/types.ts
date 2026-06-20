@@ -21,3 +21,18 @@ export type ImportPayload = {
     missing: string[];
     doubles: Record<string, number>;
 };
+
+export const desktopBridgeKey = "imaStickermanageDesktop";
+
+export type CollectionTransport = {
+    catalog(): Promise<Catalog>;
+    ownership(): Promise<Ownership>;
+    setCount(code: string, count: number): Promise<void>;
+    importCollection(payload: ImportPayload): Promise<Ownership>;
+    reset(): Promise<Ownership>;
+};
+
+export type DesktopBridge = {
+    platform: "electron";
+    collection: CollectionTransport;
+};
