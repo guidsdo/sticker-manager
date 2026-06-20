@@ -4,6 +4,12 @@
   "private": true,
   "type": "module",
   "main": "dist/main.js",
+  "author": {
+    "name": "guidsdo",
+    "email": "guidsdo@users.noreply.github.com",
+    "url": "https://github.com/guidsdo/sticker-manager"
+  },
+  "description": "Desktop app version to have an offline sticker manager",
   "scripts": {
     "build": "pnpm --filter @ima-stickermanage/client build && node esbuild.config.mjs",
     "rebuild:native": "node scripts/rebuild-native.mjs",
@@ -32,6 +38,7 @@
   "build": {
     "appId": "io.guidsdo.stickermanager",
     "productName": "Sticker Manager 2026",
+    "executableName": "sticker-manager-2026",
     "directories": {
       "output": "release"
     },
