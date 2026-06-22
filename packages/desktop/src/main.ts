@@ -22,10 +22,10 @@ function registerHandlers() {
 
 function createWindow() {
     mainWindow = new BrowserWindow({
-        width: 1440,
-        height: 960,
-        minWidth: 1024,
-        minHeight: 720,
+        width: 1700,
+        height: 1000,
+        minWidth: 1700,
+        minHeight: 1000,
         backgroundColor: "#07131a",
         webPreferences: {
             preload: path.join(__dirname, "preload.js"),

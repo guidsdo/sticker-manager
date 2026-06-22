@@ -9,11 +9,7 @@ if (!electronVersion) {
     throw new Error("Missing electron dependency version in packages/desktop/package.json");
 }
 
-const result = spawnSync(
-    process.platform === "win32" ? "pnpm.cmd" : "pnpm",
-    ["exec", "electron-rebuild", "-f", "-w", "better-sqlite3", "-v", electronVersion],
-    { stdio: "inherit" }
-);
+const result = spawnSync("pnpm", ["exec", "electron-rebuild", "-f", "-w", "better-sqlite3", "-v", electronVersion], { stdio: "inherit" });
 
 if (result.status !== 0) {
     process.exit(result.status ?? 1);

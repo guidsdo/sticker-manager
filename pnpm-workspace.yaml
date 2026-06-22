@@ -2,9 +2,9 @@ packages:
   - packages/*
 
 catalog:
-  '@types/node': ^25.9.3
-  '@types/react': ^19.2.17
-  '@types/react-dom': ^19.2.3
+  "@types/node": ^24.0.0
+  "@types/react": ^19.2.17
+  "@types/react-dom": ^19.2.3
   esbuild: ^0.28.1
   mobx: ^6.16.1
   mobx-react: ^9.2.2
@@ -21,3 +21,8 @@ onlyBuiltDependencies:
   - better-sqlite3
   - electron
   - esbuild
+
+allowBuilds:
+  better-sqlite3: true
+  electron-winstaller: true
+  esbuild: true
